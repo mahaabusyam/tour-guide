@@ -3,24 +3,24 @@
     "id": "today",
     "title": "Related Tours In Today",
     "tours": [
-      { "id": "today-1", "title": "Alaska: Westminster to Greenwich River Thames", "image": "/images/alaska-1.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
-      { "id": "today-2", "title": "Alaska: Vintage Double Decker Bus Tour & Thames", "image": "/images/alaska-2.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
-      { "id": "today-3", "title": "Alaska: Magic of London Tour with Afternoon Tea at", "image": "/images/alaska-3.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
-      { "id": "today-4", "title": "Alaska: Magic of London Tour with Afternoon Tea at", "image": "/images/alaska-4.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
-      { "id": "today-5", "title": "Alaska: Thames Sunset Cruise with Dinner", "image": "/images/alaska-1.jpg", "duration": "Duration 3 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 48, "rating": 4.5, "reviews": 310 },
-      { "id": "today-6", "title": "Alaska: Royal London Palaces Walking Tour", "image": "/images/alaska-2.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 29, "rating": 4, "reviews": 205 }
+      { "id": "today-1", "title": "Alaska: Westminster to Greenwich River Thames", "image": "/tour-guide/images/alaska-1.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+      { "id": "today-2", "title": "Alaska: Vintage Double Decker Bus Tour & Thames", "image": "/tour-guide/images/alaska-2.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+      { "id": "today-3", "title": "Alaska: Magic of London Tour with Afternoon Tea at", "image": "/tour-guide/images/alaska-3.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+      { "id": "today-4", "title": "Alaska: Magic of London Tour with Afternoon Tea at", "image": "/tour-guide/images/alaska-4.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+      { "id": "today-5", "title": "Alaska: Thames Sunset Cruise with Dinner", "image": "/tour-guide/images/alaska-1.jpg", "duration": "Duration 3 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 48, "rating": 4.5, "reviews": 310 },
+      { "id": "today-6", "title": "Alaska: Royal London Palaces Walking Tour", "image": "/tour-guide/images/alaska-2.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 29, "rating": 4, "reviews": 205 }
     ]
   },
   {
     "id": "london",
     "title": "Related Tours In London",
     "tours": [
-      { "id": "london-1", "title": "Alaska: Westminster to Greenwich River Thames", "image": "/images/alaska-1.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
-      { "id": "london-2", "title": "Alaska: Vintage Double Decker Bus Tour & Thames", "image": "/images/alaska-2.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
-      { "id": "london-3", "title": "Alaska: Magic of London Tour with Afternoon Tea at", "image": "/images/alaska-3.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
-      { "id": "london-4", "title": "Alaska: Magic of London Tour with Afternoon Tea at", "image": "/images/alaska-4.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
-      { "id": "london-5", "title": "Alaska: Tower of London & Crown Jewels Visit", "image": "/images/alaska-3.jpg", "duration": "Duration 4 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 55, "rating": 4.5, "reviews": 442 },
-      { "id": "london-6", "title": "Alaska: West End Evening Walking Tour", "image": "/images/alaska-4.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 32, "rating": 3.5, "reviews": 168 }
+      { "id": "london-1", "title": "Alaska: Westminster to Greenwich River Thames", "image": "/tour-guide/images/alaska-1.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+      { "id": "london-2", "title": "Alaska: Vintage Double Decker Bus Tour & Thames", "image": "/tour-guide/images/alaska-2.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+      { "id": "london-3", "title": "Alaska: Magic of London Tour with Afternoon Tea at", "image": "/tour-guide/images/alaska-3.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+      { "id": "london-4", "title": "Alaska: Magic of London Tour with Afternoon Tea at", "image": "/tour-guide/images/alaska-4.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+      { "id": "london-5", "title": "Alaska: Tower of London & Crown Jewels Visit", "image": "/tour-guide/images/alaska-3.jpg", "duration": "Duration 4 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 55, "rating": 4.5, "reviews": 442 },
+      { "id": "london-6", "title": "Alaska: West End Evening Walking Tour", "image": "/tour-guide/images/alaska-4.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 32, "rating": 3.5, "reviews": 168 }
     ]
   }
 ]
