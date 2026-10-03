@@ -1,0 +1,1 @@
+export const DEFAULT_TOUR_ID = 'vintage-double-decker';

@@ -1,0 +1,3081 @@
+[
+  {
+    "id": "new-york-a1",
+    "cityId": "new-york",
+    "title": "Times Square: Guided Walking Tour",
+    "destination": "Times Square",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 36,
+    "rating": 4.5,
+    "reviews": 208,
+    "image": "/images/new-york-2.webp"
+  },
+  {
+    "id": "new-york-a2",
+    "cityId": "new-york",
+    "title": "Central Park: Nature & Wildlife Day Trip",
+    "destination": "Central Park",
+    "themes": [
+      "nature",
+      "distancing"
+    ],
+    "hours": 7,
+    "duration": "Duration 7 hours",
+    "price": 90,
+    "rating": 4,
+    "reviews": 422,
+    "image": "/images/new-york-3.webp"
+  },
+  {
+    "id": "new-york-a3",
+    "cityId": "new-york",
+    "title": "Brooklyn Bridge: Kayak & Paddle Adventure",
+    "destination": "Brooklyn Bridge",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 73,
+    "rating": 4.5,
+    "reviews": 636,
+    "image": "/images/new-york-4.webp"
+  },
+  {
+    "id": "new-york-a4",
+    "cityId": "new-york",
+    "title": "Statue of Liberty: Photography Experience",
+    "destination": "Statue of Liberty",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 41,
+    "rating": 5,
+    "reviews": 850,
+    "image": "/images/gallery-1.jpg"
+  } ,
+  {
+    "id": "new-york-a5",
+    "cityId": "new-york",
+    "title": "Battery Park: Evening Highlights Tour",
+    "destination": "Battery Park",
+    "themes": [
+      "culture"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 51,
+    "rating": 4.5,
+    "reviews": 164,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "new-york-a6",
+    "cityId": "new-york",
+    "title": "SoHo: Photography Experience",
+    "destination": "SoHo",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 42,
+    "rating": 4,
+    "reviews": 378,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "new-york-a7",
+    "cityId": "new-york",
+    "title": "Greenwich Village: Skip-the-Line Visit",
+    "destination": "Greenwich Village",
+    "themes": [
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 59,
+    "rating": 4.5,
+    "reviews": 592,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "new-york-a8",
+    "cityId": "new-york",
+    "title": "Harlem: Full-Day Highlights",
+    "destination": "Harlem",
+    "themes": [
+      "culture",
+      "family"
+    ],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 123,
+    "rating": 5,
+    "reviews": 806,
+    "image": "/images/gallery-5.jpg"
+  } ,
+  {
+    "id": "new-york-a9",
+    "cityId": "new-york",
+    "title": "DUMBO: Sunset Boat Cruise",
+    "destination": "DUMBO",
+    "themes": [
+      "water"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 56,
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "new-york-a10",
+    "cityId": "new-york",
+    "title": "The High Line: Guided Walking Tour",
+    "destination": "The High Line",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 34,
+    "rating": 4,
+    "reviews": 334,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "new-york-a11",
+    "cityId": "new-york",
+    "title": "Times Square: Hidden Gems Walk",
+    "destination": "Times Square",
+    "themes": [
+      "hidden",
+      "distancing"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 46,
+    "rating": 5,
+    "reviews": 138,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "new-york-a12",
+    "cityId": "new-york",
+    "title": "Central Park: E-Bike Adventure",
+    "destination": "Central Park",
+    "themes": [
+      "adrenaline",
+      "nature"
+    ],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 61,
+    "rating": 4.5,
+    "reviews": 352,
+    "image": "/images/new-york-1.webp"
+  },
+  {
+    "id": "new-york-a13",
+    "cityId": "new-york",
+    "title": "Brooklyn Bridge: Photography Experience",
+    "destination": "Brooklyn Bridge",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 566,
+    "image": "/images/new-york-2.webp"
+  },
+  {
+    "id": "new-york-a14",
+    "cityId": "new-york",
+    "title": "Statue of Liberty: Evening Highlights Tour",
+    "destination": "Statue of Liberty",
+    "themes": [
+      "culture"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 49,
+    "rating": 4.5,
+    "reviews": 780,
+    "image": "/images/new-york-3.webp"
+  },
+  {
+    "id": "new-york-a15",
+    "cityId": "new-york",
+    "title": "Battery Park: Family Discovery Tour",
+    "destination": "Battery Park",
+    "themes": [
+      "family"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 37,
+    "rating": 5,
+    "reviews": 94,
+    "image": "/images/new-york-4.webp"
+  },
+  {
+    "id": "new-york-a16",
+    "cityId": "new-york",
+    "title": "SoHo: Evening Highlights Tour",
+    "destination": "SoHo",
+    "themes": [
+      "culture"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 50,
+    "rating": 4.5,
+    "reviews": 308,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "new-york-a17",
+    "cityId": "new-york",
+    "title": "Greenwich Village: Full-Day Highlights",
+    "destination": "Greenwich Village",
+    "themes": [
+      "culture",
+      "family"
+    ],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 121,
+    "rating": 4,
+    "reviews": 522,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "new-york-a18",
+    "cityId": "new-york",
+    "title": "Harlem: Weekend Escape",
+    "destination": "Harlem",
+    "themes": [
+      "nature",
+      "culture"
+    ],
+    "hours": 48,
+    "duration": "Duration 2 days",
+    "price": 258,
+    "rating": 4.5,
+    "reviews": 736,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "new-york-a19",
+    "cityId": "new-york",
+    "title": "DUMBO: Kayak & Paddle Adventure",
+    "destination": "DUMBO",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 68,
+    "rating": 5,
+    "reviews": 50,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "new-york-a20",
+    "cityId": "new-york",
+    "title": "The High Line: Hidden Gems Walk",
+    "destination": "The High Line",
+    "themes": [
+      "hidden",
+      "distancing"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 44,
+    "rating": 4.5,
+    "reviews": 264,
+    "image": "/images/gallery-5.jpg"
+  } ,
+  {
+    "id": "new-york-a21",
+    "cityId": "new-york",
+    "title": "Times Square: Food & Tasting Tour",
+    "destination": "Times Square",
+    "themes": [
+      "food"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 63,
+    "rating": 4.5,
+    "reviews": 68,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "new-york-a22",
+    "cityId": "new-york",
+    "title": "Central Park: Zipline & Adventure Day",
+    "destination": "Central Park",
+    "themes": [
+      "adrenaline",
+      "nature"
+    ],
+    "hours": 6,
+    "duration": "Duration 6 hours",
+    "price": 110,
+    "rating": 5,
+    "reviews": 282,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "new-york-a23",
+    "cityId": "new-york",
+    "title": "Brooklyn Bridge: Evening Highlights Tour",
+    "destination": "Brooklyn Bridge",
+    "themes": [
+      "culture"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 47,
+    "rating": 4.5,
+    "reviews": 496,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "new-york-a24",
+    "cityId": "new-york",
+    "title": "Statue of Liberty: Family Discovery Tour",
+    "destination": "Statue of Liberty",
+    "themes": [
+      "family"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 48,
+    "rating": 4,
+    "reviews": 710,
+    "image": "/images/new-york-1.webp"
+  },
+  {
+    "id": "california-a1",
+    "cityId": "california",
+    "title": "Golden Gate Bridge: Guided Walking Tour",
+    "destination": "Golden Gate Bridge",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 36,
+    "rating": 4.5,
+    "reviews": 208,
+    "image": "/images/california-2.jpg"
+  },
+  {
+    "id": "california-a2",
+    "cityId": "california",
+    "title": "Alcatraz Island: Sunset Boat Cruise",
+    "destination": "Alcatraz Island",
+    "themes": [
+      "water"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 46,
+    "rating": 4,
+    "reviews": 422,
+    "image": "/images/california-3.jpg"
+  },
+  {
+    "id": "california-a3",
+    "cityId": "california",
+    "title": "Fisherman's Wharf: Kayak & Paddle Adventure",
+    "destination": "Fisherman's Wharf",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 73,
+    "rating": 4.5,
+    "reviews": 636,
+    "image": "/images/california-4.jpg"
+  },
+  {
+    "id": "california-a4",
+    "cityId": "california",
+    "title": "Lombard Street: Street Art & Graffiti Walk",
+    "destination": "Lombard Street",
+    "themes": [
+      "street",
+      "hidden"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 29,
+    "rating": 5,
+    "reviews": 850,
+    "image": "/images/gallery-1.jpg"
+  } ,
+  {
+    "id": "california-a5",
+    "cityId": "california",
+    "title": "Yosemite Valley: Photography Experience",
+    "destination": "Yosemite Valley",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 48,
+    "rating": 4.5,
+    "reviews": 164,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "california-a6",
+    "cityId": "california",
+    "title": "Santa Monica Pier: Family Discovery Tour",
+    "destination": "Santa Monica Pier",
+    "themes": [
+      "family"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 378,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "california-a7",
+    "cityId": "california",
+    "title": "Hollywood: Skip-the-Line Visit",
+    "destination": "Hollywood",
+    "themes": [
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 59,
+    "rating": 4.5,
+    "reviews": 592,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "california-a8",
+    "cityId": "california",
+    "title": "Venice Beach: Guided Walking Tour",
+    "destination": "Venice Beach",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 33,
+    "rating": 5,
+    "reviews": 806,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "california-a9",
+    "cityId": "california",
+    "title": "Big Sur: Guided Walking Tour",
+    "destination": "Big Sur",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 40,
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "california-a10",
+    "cityId": "california",
+    "title": "Napa Valley: Nature & Wildlife Day Trip",
+    "destination": "Napa Valley",
+    "themes": [
+      "nature",
+      "distancing"
+    ],
+    "hours": 7,
+    "duration": "Duration 7 hours",
+    "price": 94,
+    "rating": 4,
+    "reviews": 334,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "california-a11",
+    "cityId": "california",
+    "title": "Golden Gate Bridge: Sunset Boat Cruise",
+    "destination": "Golden Gate Bridge",
+    "themes": [
+      "water"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 57,
+    "rating": 5,
+    "reviews": 138,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "california-a12",
+    "cityId": "california",
+    "title": "Alcatraz Island: Kayak & Paddle Adventure",
+    "destination": "Alcatraz Island",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 71,
+    "rating": 4.5,
+    "reviews": 352,
+    "image": "/images/california-1.jpg"
+  },
+  {
+    "id": "california-a13",
+    "cityId": "california",
+    "title": "Fisherman's Wharf: Photography Experience",
+    "destination": "Fisherman's Wharf",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 566,
+    "image": "/images/california-2.jpg"
+  },
+  {
+    "id": "california-a14",
+    "cityId": "california",
+    "title": "Lombard Street: E-Bike Adventure",
+    "destination": "Lombard Street",
+    "themes": [
+      "adrenaline",
+      "nature"
+    ],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 62,
+    "rating": 4.5,
+    "reviews": 780,
+    "image": "/images/california-3.jpg"
+  },
+  {
+    "id": "california-a15",
+    "cityId": "california",
+    "title": "Yosemite Valley: Family Discovery Tour",
+    "destination": "Yosemite Valley",
+    "themes": [
+      "family"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 37,
+    "rating": 5,
+    "reviews": 94,
+    "image": "/images/california-4.jpg"
+  },
+  {
+    "id": "california-a16",
+    "cityId": "california",
+    "title": "Santa Monica Pier: Full-Day Highlights",
+    "destination": "Santa Monica Pier",
+    "themes": [
+      "culture",
+      "family"
+    ],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 127,
+    "rating": 4.5,
+    "reviews": 308,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "california-a17",
+    "cityId": "california",
+    "title": "Hollywood: Full-Day Highlights",
+    "destination": "Hollywood",
+    "themes": [
+      "culture",
+      "family"
+    ],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 121,
+    "rating": 4,
+    "reviews": 522,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "california-a18",
+    "cityId": "california",
+    "title": "Venice Beach: Sunset Boat Cruise",
+    "destination": "Venice Beach",
+    "themes": [
+      "water"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 54,
+    "rating": 4.5,
+    "reviews": 736,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "california-a19",
+    "cityId": "california",
+    "title": "Big Sur: Nature & Wildlife Day Trip",
+    "destination": "Big Sur",
+    "themes": [
+      "nature",
+      "distancing"
+    ],
+    "hours": 7,
+    "duration": "Duration 7 hours",
+    "price": 92,
+    "rating": 5,
+    "reviews": 50,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "california-a20",
+    "cityId": "california",
+    "title": "Napa Valley: E-Bike Adventure",
+    "destination": "Napa Valley",
+    "themes": [
+      "adrenaline",
+      "nature"
+    ],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 65,
+    "rating": 4.5,
+    "reviews": 264,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "california-a21",
+    "cityId": "california",
+    "title": "Golden Gate Bridge: Kayak & Paddle Adventure",
+    "destination": "Golden Gate Bridge",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 69,
+    "rating": 4.5,
+    "reviews": 68,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "california-a22",
+    "cityId": "california",
+    "title": "Alcatraz Island: Photography Experience",
+    "destination": "Alcatraz Island",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 50,
+    "rating": 5,
+    "reviews": 282,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "california-a23",
+    "cityId": "california",
+    "title": "Fisherman's Wharf: Evening Highlights Tour",
+    "destination": "Fisherman's Wharf",
+    "themes": [
+      "culture"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 47,
+    "rating": 4.5,
+    "reviews": 496,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "california-a24",
+    "cityId": "california",
+    "title": "Lombard Street: Photography Experience",
+    "destination": "Lombard Street",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 51,
+    "rating": 4,
+    "reviews": 710,
+    "image": "/images/california-1.jpg"
+  },
+  {
+    "id": "alaska-a1",
+    "cityId": "alaska",
+    "title": "Denali National Park: Guided Walking Tour",
+    "destination": "Denali National Park",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 36,
+    "rating": 4.5,
+    "reviews": 208,
+    "image": "/images/alaska-2.jpg"
+  },
+  {
+    "id": "alaska-a2",
+    "cityId": "alaska",
+    "title": "Glacier Bay: Sunset Boat Cruise",
+    "destination": "Glacier Bay",
+    "themes": [
+      "water"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 46,
+    "rating": 4,
+    "reviews": 422,
+    "image": "/images/alaska-3.jpg"
+  },
+  {
+    "id": "alaska-a3",
+    "cityId": "alaska",
+    "title": "Anchorage: Food & Tasting Tour",
+    "destination": "Anchorage",
+    "themes": [
+      "food"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 67,
+    "rating": 4.5,
+    "reviews": 636,
+    "image": "/images/alaska-4.jpg"
+  },
+  {
+    "id": "alaska-a4",
+    "cityId": "alaska",
+    "title": "Kenai Fjords: Photography Experience",
+    "destination": "Kenai Fjords",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 41,
+    "rating": 5,
+    "reviews": 850,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "alaska-a5",
+    "cityId": "alaska",
+    "title": "Fairbanks: Photography Experience",
+    "destination": "Fairbanks",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 48,
+    "rating": 4.5,
+    "reviews": 164,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "alaska-a6",
+    "cityId": "alaska",
+    "title": "Juneau: Family Discovery Tour",
+    "destination": "Juneau",
+    "themes": [
+      "family"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 378,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "alaska-a7",
+    "cityId": "alaska",
+    "title": "Seward: Full-Day Highlights",
+    "destination": "Seward",
+    "themes": [
+      "culture",
+      "family"
+    ],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 129,
+    "rating": 4.5,
+    "reviews": 592,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "alaska-a8",
+    "cityId": "alaska",
+    "title": "Mendenhall Glacier: Weekend Escape",
+    "destination": "Mendenhall Glacier",
+    "themes": [
+      "nature",
+      "culture"
+    ],
+    "hours": 48,
+    "duration": "Duration 2 days",
+    "price": 253,
+    "rating": 5,
+    "reviews": 806,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "alaska-a9",
+    "cityId": "alaska",
+    "title": "Talkeetna: Guided Walking Tour",
+    "destination": "Talkeetna",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 40,
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "alaska-a10",
+    "cityId": "alaska",
+    "title": "Homer: Kayak & Paddle Adventure",
+    "destination": "Homer",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 70,
+    "rating": 4,
+    "reviews": 334,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "alaska-a11",
+    "cityId": "alaska",
+    "title": "Denali National Park: Nature & Wildlife Day Trip",
+    "destination": "Denali National Park",
+    "themes": [
+      "nature",
+      "distancing"
+    ],
+    "hours": 7,
+    "duration": "Duration 7 hours",
+    "price": 101,
+    "rating": 5,
+    "reviews": 138,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "alaska-a12",
+    "cityId": "alaska",
+    "title": "Glacier Bay: Kayak & Paddle Adventure",
+    "destination": "Glacier Bay",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 71,
+    "rating": 4.5,
+    "reviews": 352,
+    "image": "/images/alaska-1.jpg"
+  },
+  {
+    "id": "alaska-a13",
+    "cityId": "alaska",
+    "title": "Anchorage: Street Art & Graffiti Walk",
+    "destination": "Anchorage",
+    "themes": [
+      "street",
+      "hidden"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 27,
+    "rating": 4,
+    "reviews": 566,
+    "image": "/images/alaska-2.jpg"
+  },
+  {
+    "id": "alaska-a14",
+    "cityId": "alaska",
+    "title": "Kenai Fjords: Evening Highlights Tour",
+    "destination": "Kenai Fjords",
+    "themes": [
+      "culture"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 49,
+    "rating": 4.5,
+    "reviews": 780,
+    "image": "/images/alaska-3.jpg"
+  },
+  {
+    "id": "alaska-a15",
+    "cityId": "alaska",
+    "title": "Fairbanks: Family Discovery Tour",
+    "destination": "Fairbanks",
+    "themes": [
+      "family"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 37,
+    "rating": 5,
+    "reviews": 94,
+    "image": "/images/alaska-4.jpg"
+  },
+  {
+    "id": "alaska-a16",
+    "cityId": "alaska",
+    "title": "Juneau: Full-Day Highlights",
+    "destination": "Juneau",
+    "themes": [
+      "culture",
+      "family"
+    ],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 127,
+    "rating": 4.5,
+    "reviews": 308,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "alaska-a17",
+    "cityId": "alaska",
+    "title": "Seward: Guided Walking Tour",
+    "destination": "Seward",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 31,
+    "rating": 4,
+    "reviews": 522,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "alaska-a18",
+    "cityId": "alaska",
+    "title": "Mendenhall Glacier: Guided Walking Tour",
+    "destination": "Mendenhall Glacier",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 38,
+    "rating": 4.5,
+    "reviews": 736,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "alaska-a19",
+    "cityId": "alaska",
+    "title": "Talkeetna: Nature & Wildlife Day Trip",
+    "destination": "Talkeetna",
+    "themes": [
+      "nature",
+      "distancing"
+    ],
+    "hours": 7,
+    "duration": "Duration 7 hours",
+    "price": 92,
+    "rating": 5,
+    "reviews": 50,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "alaska-a20",
+    "cityId": "alaska",
+    "title": "Homer: Photography Experience",
+    "destination": "Homer",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 49,
+    "rating": 4.5,
+    "reviews": 264,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "alaska-a21",
+    "cityId": "alaska",
+    "title": "Denali National Park: E-Bike Adventure",
+    "destination": "Denali National Park",
+    "themes": [
+      "adrenaline",
+      "nature"
+    ],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 59,
+    "rating": 4.5,
+    "reviews": 68,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "alaska-a22",
+    "cityId": "alaska",
+    "title": "Glacier Bay: Photography Experience",
+    "destination": "Glacier Bay",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 50,
+    "rating": 5,
+    "reviews": 282,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "alaska-a23",
+    "cityId": "alaska",
+    "title": "Anchorage: E-Bike Adventure",
+    "destination": "Anchorage",
+    "themes": [
+      "adrenaline",
+      "nature"
+    ],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 60,
+    "rating": 4.5,
+    "reviews": 496,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "alaska-a24",
+    "cityId": "alaska",
+    "title": "Kenai Fjords: Family Discovery Tour",
+    "destination": "Kenai Fjords",
+    "themes": [
+      "family"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 48,
+    "rating": 4,
+    "reviews": 710,
+    "image": "/images/alaska-1.jpg"
+  },
+  {
+    "id": "sidney-a1",
+    "cityId": "sidney",
+    "title": "Opera House: Guided Walking Tour",
+    "destination": "Opera House",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 36,
+    "rating": 4.5,
+    "reviews": 208,
+    "image": "/images/sidney-2.jpg"
+  },
+  {
+    "id": "sidney-a2",
+    "cityId": "sidney",
+    "title": "Circular Quay: Sunset Boat Cruise",
+    "destination": "Circular Quay",
+    "themes": [
+      "water"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 46,
+    "rating": 4,
+    "reviews": 422,
+    "image": "/images/sidney-3.jpg"
+  },
+  {
+    "id": "sidney-a3",
+    "cityId": "sidney",
+    "title": "Bondi Beach: Kayak & Paddle Adventure",
+    "destination": "Bondi Beach",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 73,
+    "rating": 4.5,
+    "reviews": 636,
+    "image": "/images/sidney-4.jpg"
+  },
+  {
+    "id": "sidney-a4",
+    "cityId": "sidney",
+    "title": "Harbour Bridge: Photography Experience",
+    "destination": "Harbour Bridge",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 41,
+    "rating": 5,
+    "reviews": 850,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "sidney-a5",
+    "cityId": "sidney",
+    "title": "The Rocks: Evening Highlights Tour",
+    "destination": "The Rocks",
+    "themes": [
+      "culture"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 51,
+    "rating": 4.5,
+    "reviews": 164,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "sidney-a6",
+    "cityId": "sidney",
+    "title": "Manly: Family Discovery Tour",
+    "destination": "Manly",
+    "themes": [
+      "family"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 378,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "sidney-a7",
+    "cityId": "sidney",
+    "title": "Blue Mountains: Full-Day Highlights",
+    "destination": "Blue Mountains",
+    "themes": [
+      "culture",
+      "family"
+    ],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 129,
+    "rating": 4.5,
+    "reviews": 592,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "sidney-a8",
+    "cityId": "sidney",
+    "title": "Darling Harbour: Guided Walking Tour",
+    "destination": "Darling Harbour",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 33,
+    "rating": 5,
+    "reviews": 806,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "sidney-a9",
+    "cityId": "sidney",
+    "title": "Taronga Zoo: Guided Walking Tour",
+    "destination": "Taronga Zoo",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 40,
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "sidney-a10",
+    "cityId": "sidney",
+    "title": "Newtown: Guided Walking Tour",
+    "destination": "Newtown",
+    "themes": [
+      "culture",
+      "distancing"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 34,
+    "rating": 4,
+    "reviews": 334,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "sidney-a11",
+    "cityId": "sidney",
+    "title": "Opera House: Sunset Boat Cruise",
+    "destination": "Opera House",
+    "themes": [
+      "water"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 57,
+    "rating": 5,
+    "reviews": 138,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "sidney-a12",
+    "cityId": "sidney",
+    "title": "Circular Quay: Kayak & Paddle Adventure",
+    "destination": "Circular Quay",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 71,
+    "rating": 4.5,
+    "reviews": 352,
+    "image": "/images/sidney-1.jpg"
+  },
+  {
+    "id": "sidney-a13",
+    "cityId": "sidney",
+    "title": "Bondi Beach: Photography Experience",
+    "destination": "Bondi Beach",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 566,
+    "image": "/images/sidney-2.jpg"
+  },
+  {
+    "id": "sidney-a14",
+    "cityId": "sidney",
+    "title": "Harbour Bridge: Evening Highlights Tour",
+    "destination": "Harbour Bridge",
+    "themes": [
+      "culture"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 49,
+    "rating": 4.5,
+    "reviews": 780,
+    "image": "/images/sidney-3.jpg"
+  },
+  {
+    "id": "sidney-a15",
+    "cityId": "sidney",
+    "title": "The Rocks: Family Discovery Tour",
+    "destination": "The Rocks",
+    "themes": [
+      "family"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 37,
+    "rating": 5,
+    "reviews": 94,
+    "image": "/images/sidney-4.jpg"
+  },
+  {
+    "id": "sidney-a16",
+    "cityId": "sidney",
+    "title": "Manly: Full-Day Highlights",
+    "destination": "Manly",
+    "themes": [
+      "culture",
+      "family"
+    ],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 127,
+    "rating": 4.5,
+    "reviews": 308,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "sidney-a17",
+    "cityId": "sidney",
+    "title": "Blue Mountains: Weekend Escape",
+    "destination": "Blue Mountains",
+    "themes": [
+      "nature",
+      "culture"
+    ],
+    "hours": 48,
+    "duration": "Duration 2 days",
+    "price": 258,
+    "rating": 4.5,
+    "reviews": 522,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "sidney-a18",
+    "cityId": "sidney",
+    "title": "Darling Harbour: Sunset Boat Cruise",
+    "destination": "Darling Harbour",
+    "themes": [
+      "water"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 54,
+    "rating": 4.5,
+    "reviews": 736,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "sidney-a19",
+    "cityId": "sidney",
+    "title": "Taronga Zoo: Nature & Wildlife Day Trip",
+    "destination": "Taronga Zoo",
+    "themes": [
+      "nature",
+      "distancing"
+    ],
+    "hours": 7,
+    "duration": "Duration 7 hours",
+    "price": 92,
+    "rating": 5,
+    "reviews": 50,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "sidney-a20",
+    "cityId": "sidney",
+    "title": "Newtown: E-Bike Adventure",
+    "destination": "Newtown",
+    "themes": [
+      "adrenaline",
+      "nature"
+    ],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 65,
+    "rating": 4.5,
+    "reviews": 264,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "sidney-a21",
+    "cityId": "sidney",
+    "title": "Opera House: Kayak & Paddle Adventure",
+    "destination": "Opera House",
+    "themes": [
+      "water",
+      "adrenaline"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 69,
+    "rating": 4.5,
+    "reviews": 68,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "sidney-a22",
+    "cityId": "sidney",
+    "title": "Circular Quay: Photography Experience",
+    "destination": "Circular Quay",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 50,
+    "rating": 5,
+    "reviews": 282,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "sidney-a23",
+    "cityId": "sidney",
+    "title": "Bondi Beach: Evening Highlights Tour",
+    "destination": "Bondi Beach",
+    "themes": [
+      "culture"
+    ],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 47,
+    "rating": 4.5,
+    "reviews": 496,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "sidney-a24",
+    "cityId": "sidney",
+    "title": "Harbour Bridge: Photography Experience",
+    "destination": "Harbour Bridge",
+    "themes": [
+      "hidden",
+      "culture"
+    ],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 51,
+    "rating": 4,
+    "reviews": 710,
+    "image": "/images/sidney-1.jpg"
+  },
+  {
+    "id": "dubai-a1",
+    "cityId": "dubai",
+    "title": "Burj Khalifa: Guided Walking Tour",
+    "destination": "Burj Khalifa",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 36,
+    "rating": 4.5,
+    "reviews": 208,
+    "image": "/images/dubai-2.jpg"
+  },
+  {
+    "id": "dubai-a2",
+    "cityId": "dubai",
+    "title": "Dubai Marina: Sunset Boat Cruise",
+    "destination": "Dubai Marina",
+    "themes": ["water"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 46,
+    "rating": 4,
+    "reviews": 422,
+    "image": "/images/dubai-3.jpg"
+  },
+  {
+    "id": "dubai-a3",
+    "cityId": "dubai",
+    "title": "Old Town: Food & Tasting Tour",
+    "destination": "Old Town",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 67,
+    "rating": 4.5,
+    "reviews": 636,
+    "image": "/images/dubai-4.jpg"
+  },
+  {
+    "id": "dubai-a4",
+    "cityId": "dubai",
+    "title": "Palm Jumeirah: Photography Experience",
+    "destination": "Palm Jumeirah",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 41,
+    "rating": 5,
+    "reviews": 850,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "dubai-a5",
+    "cityId": "dubai",
+    "title": "Desert Reserve: Photography Experience",
+    "destination": "Desert Reserve",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 48,
+    "rating": 4.5,
+    "reviews": 164,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "dubai-a6",
+    "cityId": "dubai",
+    "title": "Deira: Photography Experience",
+    "destination": "Deira",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 42,
+    "rating": 4,
+    "reviews": 378,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "dubai-a7",
+    "cityId": "dubai",
+    "title": "Jumeirah Beach: Full-Day Highlights",
+    "destination": "Jumeirah Beach",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 129,
+    "rating": 4.5,
+    "reviews": 592,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "dubai-a8",
+    "cityId": "dubai",
+    "title": "Al Fahidi: Full-Day Highlights",
+    "destination": "Al Fahidi",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 123,
+    "rating": 5,
+    "reviews": 806,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "dubai-a9",
+    "cityId": "dubai",
+    "title": "Global Village: Full-Day Highlights",
+    "destination": "Global Village",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 130,
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "dubai-a10",
+    "cityId": "dubai",
+    "title": "Dubai Creek: Kayak & Paddle Adventure",
+    "destination": "Dubai Creek",
+    "themes": ["water", "adrenaline"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 70,
+    "rating": 4,
+    "reviews": 334,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "dubai-a11",
+    "cityId": "dubai",
+    "title": "Burj Khalifa: Hidden Gems Walk",
+    "destination": "Burj Khalifa",
+    "themes": ["hidden", "distancing"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 46,
+    "rating": 5,
+    "reviews": 138,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "dubai-a12",
+    "cityId": "dubai",
+    "title": "Dubai Marina: Kayak & Paddle Adventure",
+    "destination": "Dubai Marina",
+    "themes": ["water", "adrenaline"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 71,
+    "rating": 4.5,
+    "reviews": 352,
+    "image": "/images/dubai-1.jpg"
+  },
+  {
+    "id": "dubai-a13",
+    "cityId": "dubai",
+    "title": "Old Town: Photography Experience",
+    "destination": "Old Town",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 566,
+    "image": "/images/dubai-2.jpg"
+  },
+  {
+    "id": "dubai-a14",
+    "cityId": "dubai",
+    "title": "Palm Jumeirah: Evening Highlights Tour",
+    "destination": "Palm Jumeirah",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 49,
+    "rating": 4.5,
+    "reviews": 780,
+    "image": "/images/dubai-3.jpg"
+  },
+  {
+    "id": "dubai-a15",
+    "cityId": "dubai",
+    "title": "Desert Reserve: Family Discovery Tour",
+    "destination": "Desert Reserve",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 37,
+    "rating": 5,
+    "reviews": 94,
+    "image": "/images/dubai-4.jpg"
+  },
+  {
+    "id": "dubai-a16",
+    "cityId": "dubai",
+    "title": "Deira: Evening Highlights Tour",
+    "destination": "Deira",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 50,
+    "rating": 4.5,
+    "reviews": 308,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "dubai-a17",
+    "cityId": "dubai",
+    "title": "Jumeirah Beach: Guided Walking Tour",
+    "destination": "Jumeirah Beach",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 31,
+    "rating": 4,
+    "reviews": 522,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "dubai-a18",
+    "cityId": "dubai",
+    "title": "Al Fahidi: Weekend Escape",
+    "destination": "Al Fahidi",
+    "themes": ["nature", "culture"],
+    "hours": 48,
+    "duration": "Duration 2 days",
+    "price": 258,
+    "rating": 4.5,
+    "reviews": 736,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "dubai-a19",
+    "cityId": "dubai",
+    "title": "Global Village: Guided Walking Tour",
+    "destination": "Global Village",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 32,
+    "rating": 5,
+    "reviews": 50,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "dubai-a20",
+    "cityId": "dubai",
+    "title": "Dubai Creek: Photography Experience",
+    "destination": "Dubai Creek",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 49,
+    "rating": 4.5,
+    "reviews": 264,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "dubai-a21",
+    "cityId": "dubai",
+    "title": "Burj Khalifa: Food & Tasting Tour",
+    "destination": "Burj Khalifa",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 63,
+    "rating": 4.5,
+    "reviews": 68,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "dubai-a22",
+    "cityId": "dubai",
+    "title": "Dubai Marina: Photography Experience",
+    "destination": "Dubai Marina",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 50,
+    "rating": 5,
+    "reviews": 282,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "dubai-a23",
+    "cityId": "dubai",
+    "title": "Old Town: Evening Highlights Tour",
+    "destination": "Old Town",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 47,
+    "rating": 4.5,
+    "reviews": 496,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "dubai-a24",
+    "cityId": "dubai",
+    "title": "Palm Jumeirah: Family Discovery Tour",
+    "destination": "Palm Jumeirah",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 48,
+    "rating": 4,
+    "reviews": 710,
+    "image": "/images/dubai-1.jpg"
+  },
+  {
+    "id": "london-a1",
+    "cityId": "london",
+    "title": "Westminster: Guided Walking Tour",
+    "destination": "Westminster",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 36,
+    "rating": 4.5,
+    "reviews": 208,
+    "image": "/images/london-2.jpg"
+  },
+  {
+    "id": "london-a2",
+    "cityId": "london",
+    "title": "Tower Bridge: Sunset Boat Cruise",
+    "destination": "Tower Bridge",
+    "themes": ["water"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 46,
+    "rating": 4,
+    "reviews": 422,
+    "image": "/images/london-3.jpg"
+  },
+  {
+    "id": "london-a3",
+    "cityId": "london",
+    "title": "Greenwich: Kayak & Paddle Adventure",
+    "destination": "Greenwich",
+    "themes": ["water", "adrenaline"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 73,
+    "rating": 4.5,
+    "reviews": 636,
+    "image": "/images/london-4.jpg"
+  },
+  {
+    "id": "london-a4",
+    "cityId": "london",
+    "title": "Camden Town: Street Art & Graffiti Walk",
+    "destination": "Camden Town",
+    "themes": ["street", "hidden"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 29,
+    "rating": 5,
+    "reviews": 850,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "london-a5",
+    "cityId": "london",
+    "title": "Soho: E-Bike Adventure",
+    "destination": "Soho",
+    "themes": ["adrenaline", "nature"],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 64,
+    "rating": 4.5,
+    "reviews": 164,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "london-a6",
+    "cityId": "london",
+    "title": "Covent Garden: Photography Experience",
+    "destination": "Covent Garden",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 42,
+    "rating": 4,
+    "reviews": 378,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "london-a7",
+    "cityId": "london",
+    "title": "Shoreditch: Evening Highlights Tour",
+    "destination": "Shoreditch",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 52,
+    "rating": 4.5,
+    "reviews": 592,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "london-a8",
+    "cityId": "london",
+    "title": "Notting Hill: Family Discovery Tour",
+    "destination": "Notting Hill",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 40,
+    "rating": 5,
+    "reviews": 806,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "london-a9",
+    "cityId": "london",
+    "title": "South Bank: Sunset Boat Cruise",
+    "destination": "South Bank",
+    "themes": ["water"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 56,
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "london-a10",
+    "cityId": "london",
+    "title": "Hyde Park: Nature & Wildlife Day Trip",
+    "destination": "Hyde Park",
+    "themes": ["nature", "distancing"],
+    "hours": 7,
+    "duration": "Duration 7 hours",
+    "price": 94,
+    "rating": 4,
+    "reviews": 334,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "london-a11",
+    "cityId": "london",
+    "title": "Westminster: Hidden Gems Walk",
+    "destination": "Westminster",
+    "themes": ["hidden", "distancing"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 46,
+    "rating": 5,
+    "reviews": 138,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "london-a12",
+    "cityId": "london",
+    "title": "Tower Bridge: Kayak & Paddle Adventure",
+    "destination": "Tower Bridge",
+    "themes": ["water", "adrenaline"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 71,
+    "rating": 4.5,
+    "reviews": 352,
+    "image": "/images/london-1.jpg"
+  },
+  {
+    "id": "london-a13",
+    "cityId": "london",
+    "title": "Greenwich: Photography Experience",
+    "destination": "Greenwich",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 566,
+    "image": "/images/london-2.jpg"
+  },
+  {
+    "id": "london-a14",
+    "cityId": "london",
+    "title": "Camden Town: E-Bike Adventure",
+    "destination": "Camden Town",
+    "themes": ["adrenaline", "nature"],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 62,
+    "rating": 4.5,
+    "reviews": 780,
+    "image": "/images/london-3.jpg"
+  },
+  {
+    "id": "london-a15",
+    "cityId": "london",
+    "title": "Soho: Photography Experience",
+    "destination": "Soho",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 40,
+    "rating": 5,
+    "reviews": 94,
+    "image": "/images/london-4.jpg"
+  },
+  {
+    "id": "london-a16",
+    "cityId": "london",
+    "title": "Covent Garden: Evening Highlights Tour",
+    "destination": "Covent Garden",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 50,
+    "rating": 4.5,
+    "reviews": 308,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "london-a17",
+    "cityId": "london",
+    "title": "Shoreditch: Family Discovery Tour",
+    "destination": "Shoreditch",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 38,
+    "rating": 4,
+    "reviews": 522,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "london-a18",
+    "cityId": "london",
+    "title": "Notting Hill: Full-Day Highlights",
+    "destination": "Notting Hill",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 128,
+    "rating": 4.5,
+    "reviews": 736,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "london-a19",
+    "cityId": "london",
+    "title": "South Bank: Kayak & Paddle Adventure",
+    "destination": "South Bank",
+    "themes": ["water", "adrenaline"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 68,
+    "rating": 5,
+    "reviews": 50,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "london-a20",
+    "cityId": "london",
+    "title": "Hyde Park: E-Bike Adventure",
+    "destination": "Hyde Park",
+    "themes": ["adrenaline", "nature"],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 65,
+    "rating": 4.5,
+    "reviews": 264,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "london-a21",
+    "cityId": "london",
+    "title": "Westminster: Food & Tasting Tour",
+    "destination": "Westminster",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 63,
+    "rating": 4.5,
+    "reviews": 68,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "london-a22",
+    "cityId": "london",
+    "title": "Tower Bridge: Photography Experience",
+    "destination": "Tower Bridge",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 50,
+    "rating": 5,
+    "reviews": 282,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "london-a23",
+    "cityId": "london",
+    "title": "Greenwich: Evening Highlights Tour",
+    "destination": "Greenwich",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 47,
+    "rating": 4.5,
+    "reviews": 496,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "london-a24",
+    "cityId": "london",
+    "title": "Camden Town: Photography Experience",
+    "destination": "Camden Town",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 51,
+    "rating": 4,
+    "reviews": 710,
+    "image": "/images/london-1.jpg"
+  },
+  {
+    "id": "london-a25",
+    "cityId": "london",
+    "title": "Soho: Evening Highlights Tour",
+    "destination": "Soho",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 48,
+    "rating": 4.5,
+    "reviews": 924,
+    "image": "/images/london-2.jpg"
+  },
+  {
+    "id": "london-a26",
+    "cityId": "london",
+    "title": "Covent Garden: Family Discovery Tour",
+    "destination": "Covent Garden",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 36,
+    "rating": 5,
+    "reviews": 238,
+    "image": "/images/london-3.jpg"
+  },
+  {
+    "id": "london-a27",
+    "cityId": "london",
+    "title": "Shoreditch: Full-Day Highlights",
+    "destination": "Shoreditch",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 126,
+    "rating": 4.5,
+    "reviews": 452,
+    "image": "/images/london-4.jpg"
+  },
+  {
+    "id": "london-a28",
+    "cityId": "london",
+    "title": "Notting Hill: Guided Walking Tour",
+    "destination": "Notting Hill",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 30,
+    "rating": 4,
+    "reviews": 666,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "london-a29",
+    "cityId": "london",
+    "title": "South Bank: Photography Experience",
+    "destination": "South Bank",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 47,
+    "rating": 4.5,
+    "reviews": 880,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "london-a30",
+    "cityId": "london",
+    "title": "Hyde Park: Zipline & Adventure Day",
+    "destination": "Hyde Park",
+    "themes": ["adrenaline", "nature"],
+    "hours": 6,
+    "duration": "Duration 6 hours",
+    "price": 101,
+    "rating": 5,
+    "reviews": 194,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "london-a31",
+    "cityId": "london",
+    "title": "Westminster: Photography Experience",
+    "destination": "Westminster",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 48,
+    "rating": 4,
+    "reviews": 898,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "london-a32",
+    "cityId": "london",
+    "title": "Tower Bridge: Evening Highlights Tour",
+    "destination": "Tower Bridge",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 45,
+    "rating": 4.5,
+    "reviews": 212,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "london-a33",
+    "cityId": "london",
+    "title": "Greenwich: Family Discovery Tour",
+    "destination": "Greenwich",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 46,
+    "rating": 5,
+    "reviews": 426,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "london-a34",
+    "cityId": "london",
+    "title": "Camden Town: Evening Highlights Tour",
+    "destination": "Camden Town",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 46,
+    "rating": 4.5,
+    "reviews": 640,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "london-a35",
+    "cityId": "london",
+    "title": "Soho: Family Discovery Tour",
+    "destination": "Soho",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 47,
+    "rating": 4,
+    "reviews": 854,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "london-a36",
+    "cityId": "london",
+    "title": "Covent Garden: Full-Day Highlights",
+    "destination": "Covent Garden",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 124,
+    "rating": 4.5,
+    "reviews": 168,
+    "image": "/images/london-1.jpg"
+  },
+  {
+    "id": "london-a37",
+    "cityId": "london",
+    "title": "Shoreditch: Guided Walking Tour",
+    "destination": "Shoreditch",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 41,
+    "rating": 5,
+    "reviews": 382,
+    "image": "/images/london-2.jpg"
+  },
+  {
+    "id": "london-a38",
+    "cityId": "london",
+    "title": "Notting Hill: Hidden Gems Walk",
+    "destination": "Notting Hill",
+    "themes": ["hidden", "distancing"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 40,
+    "rating": 4.5,
+    "reviews": 596,
+    "image": "/images/london-3.jpg"
+  },
+  {
+    "id": "london-a39",
+    "cityId": "london",
+    "title": "South Bank: Evening Highlights Tour",
+    "destination": "South Bank",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 42,
+    "rating": 4,
+    "reviews": 810,
+    "image": "/images/london-4.jpg"
+  },
+  {
+    "id": "london-a40",
+    "cityId": "london",
+    "title": "Hyde Park: Photography Experience",
+    "destination": "Hyde Park",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 46,
+    "rating": 4.5,
+    "reviews": 124,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "london-a41",
+    "cityId": "london",
+    "title": "Westminster: Evening Highlights Tour",
+    "destination": "Westminster",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 43,
+    "rating": 4.5,
+    "reviews": 828,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "london-a42",
+    "cityId": "london",
+    "title": "Tower Bridge: Family Discovery Tour",
+    "destination": "Tower Bridge",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 44,
+    "rating": 4,
+    "reviews": 142,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "london-a43",
+    "cityId": "london",
+    "title": "Greenwich: Full-Day Highlights",
+    "destination": "Greenwich",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 121,
+    "rating": 4.5,
+    "reviews": 356,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "london-a44",
+    "cityId": "london",
+    "title": "Camden Town: Family Discovery Tour",
+    "destination": "Camden Town",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 45,
+    "rating": 5,
+    "reviews": 570,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "london-a45",
+    "cityId": "london",
+    "title": "Soho: Full-Day Highlights",
+    "destination": "Soho",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 122,
+    "rating": 4.5,
+    "reviews": 784,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "london-a46",
+    "cityId": "london",
+    "title": "Covent Garden: Guided Walking Tour",
+    "destination": "Covent Garden",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 98,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "london-a47",
+    "cityId": "london",
+    "title": "Shoreditch: Hidden Gems Walk",
+    "destination": "Shoreditch",
+    "themes": ["hidden", "distancing"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 38,
+    "rating": 4.5,
+    "reviews": 312,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "london-a48",
+    "cityId": "london",
+    "title": "Notting Hill: Food & Tasting Tour",
+    "destination": "Notting Hill",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 70,
+    "rating": 5,
+    "reviews": 526,
+    "image": "/images/london-1.jpg"
+  },
+  {
+    "id": "london-a49",
+    "cityId": "london",
+    "title": "South Bank: Family Discovery Tour",
+    "destination": "South Bank",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 41,
+    "rating": 4.5,
+    "reviews": 740,
+    "image": "/images/london-2.jpg"
+  },
+  {
+    "id": "tokyo-a1",
+    "cityId": "tokyo",
+    "title": "Shibuya: Guided Walking Tour",
+    "destination": "Shibuya",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 36,
+    "rating": 4.5,
+    "reviews": 208,
+    "image": "/images/tokyo-2.jpg"
+  },
+  {
+    "id": "tokyo-a2",
+    "cityId": "tokyo",
+    "title": "Asakusa: Hidden Gems Walk",
+    "destination": "Asakusa",
+    "themes": ["hidden", "distancing"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 35,
+    "rating": 4,
+    "reviews": 422,
+    "image": "/images/tokyo-3.jpg"
+  },
+  {
+    "id": "tokyo-a3",
+    "cityId": "tokyo",
+    "title": "Harajuku: Food & Tasting Tour",
+    "destination": "Harajuku",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 67,
+    "rating": 4.5,
+    "reviews": 636,
+    "image": "/images/tokyo-4.jpg"
+  },
+  {
+    "id": "tokyo-a4",
+    "cityId": "tokyo",
+    "title": "Shinjuku: Street Art & Graffiti Walk",
+    "destination": "Shinjuku",
+    "themes": ["street", "hidden"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 29,
+    "rating": 5,
+    "reviews": 850,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "tokyo-a5",
+    "cityId": "tokyo",
+    "title": "Tsukiji Market: Evening Highlights Tour",
+    "destination": "Tsukiji Market",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 51,
+    "rating": 4.5,
+    "reviews": 164,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "tokyo-a6",
+    "cityId": "tokyo",
+    "title": "Odaiba: Family Discovery Tour",
+    "destination": "Odaiba",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 378,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "tokyo-a7",
+    "cityId": "tokyo",
+    "title": "Akihabara: Evening Highlights Tour",
+    "destination": "Akihabara",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 52,
+    "rating": 4.5,
+    "reviews": 592,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "tokyo-a8",
+    "cityId": "tokyo",
+    "title": "Ueno Park: Weekend Escape",
+    "destination": "Ueno Park",
+    "themes": ["nature", "culture"],
+    "hours": 48,
+    "duration": "Duration 2 days",
+    "price": 253,
+    "rating": 5,
+    "reviews": 806,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "tokyo-a9",
+    "cityId": "tokyo",
+    "title": "Mount Fuji: Guided Walking Tour",
+    "destination": "Mount Fuji",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 40,
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "tokyo-a10",
+    "cityId": "tokyo",
+    "title": "Yanaka: Guided Walking Tour",
+    "destination": "Yanaka",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 34,
+    "rating": 4,
+    "reviews": 334,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "tokyo-a11",
+    "cityId": "tokyo",
+    "title": "Shibuya: Hidden Gems Walk",
+    "destination": "Shibuya",
+    "themes": ["hidden", "distancing"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 46,
+    "rating": 5,
+    "reviews": 138,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "tokyo-a12",
+    "cityId": "tokyo",
+    "title": "Asakusa: Food & Tasting Tour",
+    "destination": "Asakusa",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 65,
+    "rating": 4.5,
+    "reviews": 352,
+    "image": "/images/tokyo-1.jpg"
+  },
+  {
+    "id": "tokyo-a13",
+    "cityId": "tokyo",
+    "title": "Harajuku: Street Art & Graffiti Walk",
+    "destination": "Harajuku",
+    "themes": ["street", "hidden"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 27,
+    "rating": 4,
+    "reviews": 566,
+    "image": "/images/tokyo-2.jpg"
+  },
+  {
+    "id": "tokyo-a14",
+    "cityId": "tokyo",
+    "title": "Shinjuku: E-Bike Adventure",
+    "destination": "Shinjuku",
+    "themes": ["adrenaline", "nature"],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 62,
+    "rating": 4.5,
+    "reviews": 780,
+    "image": "/images/tokyo-3.jpg"
+  },
+  {
+    "id": "tokyo-a15",
+    "cityId": "tokyo",
+    "title": "Tsukiji Market: Family Discovery Tour",
+    "destination": "Tsukiji Market",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 37,
+    "rating": 5,
+    "reviews": 94,
+    "image": "/images/tokyo-4.jpg"
+  },
+  {
+    "id": "tokyo-a16",
+    "cityId": "tokyo",
+    "title": "Odaiba: Full-Day Highlights",
+    "destination": "Odaiba",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 127,
+    "rating": 4.5,
+    "reviews": 308,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "tokyo-a17",
+    "cityId": "tokyo",
+    "title": "Akihabara: Family Discovery Tour",
+    "destination": "Akihabara",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 38,
+    "rating": 4,
+    "reviews": 522,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "tokyo-a18",
+    "cityId": "tokyo",
+    "title": "Ueno Park: Guided Walking Tour",
+    "destination": "Ueno Park",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 38,
+    "rating": 4.5,
+    "reviews": 736,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "tokyo-a19",
+    "cityId": "tokyo",
+    "title": "Mount Fuji: Nature & Wildlife Day Trip",
+    "destination": "Mount Fuji",
+    "themes": ["nature", "distancing"],
+    "hours": 7,
+    "duration": "Duration 7 hours",
+    "price": 92,
+    "rating": 5,
+    "reviews": 50,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "tokyo-a20",
+    "cityId": "tokyo",
+    "title": "Yanaka: Hidden Gems Walk",
+    "destination": "Yanaka",
+    "themes": ["hidden", "distancing"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 44,
+    "rating": 4.5,
+    "reviews": 264,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "tokyo-a21",
+    "cityId": "tokyo",
+    "title": "Shibuya: Food & Tasting Tour",
+    "destination": "Shibuya",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 63,
+    "rating": 4.5,
+    "reviews": 68,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "tokyo-a22",
+    "cityId": "tokyo",
+    "title": "Asakusa: Photography Experience",
+    "destination": "Asakusa",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 50,
+    "rating": 5,
+    "reviews": 282,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "tokyo-a23",
+    "cityId": "tokyo",
+    "title": "Harajuku: E-Bike Adventure",
+    "destination": "Harajuku",
+    "themes": ["adrenaline", "nature"],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 60,
+    "rating": 4.5,
+    "reviews": 496,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "tokyo-a24",
+    "cityId": "tokyo",
+    "title": "Shinjuku: Photography Experience",
+    "destination": "Shinjuku",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 51,
+    "rating": 4,
+    "reviews": 710,
+    "image": "/images/tokyo-1.jpg"
+  },
+  {
+    "id": "delhi-a1",
+    "cityId": "delhi",
+    "title": "Red Fort: Guided Walking Tour",
+    "destination": "Red Fort",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 36,
+    "rating": 4.5,
+    "reviews": 208,
+    "image": "/images/delhi-2.jpg"
+  },
+  {
+    "id": "delhi-a2",
+    "cityId": "delhi",
+    "title": "India Gate: Hidden Gems Walk",
+    "destination": "India Gate",
+    "themes": ["hidden", "distancing"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 35,
+    "rating": 4,
+    "reviews": 422,
+    "image": "/images/delhi-3.jpg"
+  },
+  {
+    "id": "delhi-a3",
+    "cityId": "delhi",
+    "title": "Humayun's Tomb: Food & Tasting Tour",
+    "destination": "Humayun's Tomb",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 67,
+    "rating": 4.5,
+    "reviews": 636,
+    "image": "/images/delhi-4.jpg"
+  },
+  {
+    "id": "delhi-a4",
+    "cityId": "delhi",
+    "title": "Chandni Chowk: Street Art & Graffiti Walk",
+    "destination": "Chandni Chowk",
+    "themes": ["street", "hidden"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 29,
+    "rating": 5,
+    "reviews": 850,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "delhi-a5",
+    "cityId": "delhi",
+    "title": "Qutub Minar: Evening Highlights Tour",
+    "destination": "Qutub Minar",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 51,
+    "rating": 4.5,
+    "reviews": 164,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "delhi-a6",
+    "cityId": "delhi",
+    "title": "Lotus Temple: Family Discovery Tour",
+    "destination": "Lotus Temple",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 378,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "delhi-a7",
+    "cityId": "delhi",
+    "title": "Hauz Khas: Evening Highlights Tour",
+    "destination": "Hauz Khas",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 52,
+    "rating": 4.5,
+    "reviews": 592,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "delhi-a8",
+    "cityId": "delhi",
+    "title": "Connaught Place: Family Discovery Tour",
+    "destination": "Connaught Place",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 40,
+    "rating": 5,
+    "reviews": 806,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "delhi-a9",
+    "cityId": "delhi",
+    "title": "Old Delhi: Full-Day Highlights",
+    "destination": "Old Delhi",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 130,
+    "rating": 4.5,
+    "reviews": 120,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "delhi-a10",
+    "cityId": "delhi",
+    "title": "Lodhi Garden: Nature & Wildlife Day Trip",
+    "destination": "Lodhi Garden",
+    "themes": ["nature", "distancing"],
+    "hours": 7,
+    "duration": "Duration 7 hours",
+    "price": 94,
+    "rating": 4,
+    "reviews": 334,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "delhi-a11",
+    "cityId": "delhi",
+    "title": "Red Fort: Hidden Gems Walk",
+    "destination": "Red Fort",
+    "themes": ["hidden", "distancing"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 46,
+    "rating": 5,
+    "reviews": 138,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "delhi-a12",
+    "cityId": "delhi",
+    "title": "India Gate: Food & Tasting Tour",
+    "destination": "India Gate",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 65,
+    "rating": 4.5,
+    "reviews": 352,
+    "image": "/images/delhi-1.jpg"
+  },
+  {
+    "id": "delhi-a13",
+    "cityId": "delhi",
+    "title": "Humayun's Tomb: Photography Experience",
+    "destination": "Humayun's Tomb",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 39,
+    "rating": 4,
+    "reviews": 566,
+    "image": "/images/delhi-2.jpg"
+  },
+  {
+    "id": "delhi-a14",
+    "cityId": "delhi",
+    "title": "Chandni Chowk: E-Bike Adventure",
+    "destination": "Chandni Chowk",
+    "themes": ["adrenaline", "nature"],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 62,
+    "rating": 4.5,
+    "reviews": 780,
+    "image": "/images/delhi-3.jpg"
+  },
+  {
+    "id": "delhi-a15",
+    "cityId": "delhi",
+    "title": "Qutub Minar: Family Discovery Tour",
+    "destination": "Qutub Minar",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 37,
+    "rating": 5,
+    "reviews": 94,
+    "image": "/images/delhi-4.jpg"
+  },
+  {
+    "id": "delhi-a16",
+    "cityId": "delhi",
+    "title": "Lotus Temple: Skip-the-Line Visit",
+    "destination": "Lotus Temple",
+    "themes": ["culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 57,
+    "rating": 4.5,
+    "reviews": 308,
+    "image": "/images/gallery-1.jpg"
+  },
+  {
+    "id": "delhi-a17",
+    "cityId": "delhi",
+    "title": "Hauz Khas: Family Discovery Tour",
+    "destination": "Hauz Khas",
+    "themes": ["family"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 38,
+    "rating": 4,
+    "reviews": 522,
+    "image": "/images/gallery-2.jpg"
+  },
+  {
+    "id": "delhi-a18",
+    "cityId": "delhi",
+    "title": "Connaught Place: Full-Day Highlights",
+    "destination": "Connaught Place",
+    "themes": ["culture", "family"],
+    "hours": 8,
+    "duration": "Duration 8 hours",
+    "price": 128,
+    "rating": 4.5,
+    "reviews": 736,
+    "image": "/images/gallery-3.jpg"
+  },
+  {
+    "id": "delhi-a19",
+    "cityId": "delhi",
+    "title": "Old Delhi: Guided Walking Tour",
+    "destination": "Old Delhi",
+    "themes": ["culture", "distancing"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 32,
+    "rating": 5,
+    "reviews": 50,
+    "image": "/images/gallery-4.jpg"
+  },
+  {
+    "id": "delhi-a20",
+    "cityId": "delhi",
+    "title": "Lodhi Garden: E-Bike Adventure",
+    "destination": "Lodhi Garden",
+    "themes": ["adrenaline", "nature"],
+    "hours": 4,
+    "duration": "Duration 4 hours",
+    "price": 65,
+    "rating": 4.5,
+    "reviews": 264,
+    "image": "/images/gallery-5.jpg"
+  },
+  {
+    "id": "delhi-a21",
+    "cityId": "delhi",
+    "title": "Red Fort: Food & Tasting Tour",
+    "destination": "Red Fort",
+    "themes": ["food"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 63,
+    "rating": 4.5,
+    "reviews": 68,
+    "image": "/images/gallery-6.jpg"
+  },
+  {
+    "id": "delhi-a22",
+    "cityId": "delhi",
+    "title": "India Gate: Photography Experience",
+    "destination": "India Gate",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 50,
+    "rating": 5,
+    "reviews": 282,
+    "image": "/images/gallery-7.jpg"
+  },
+  {
+    "id": "delhi-a23",
+    "cityId": "delhi",
+    "title": "Humayun's Tomb: Evening Highlights Tour",
+    "destination": "Humayun's Tomb",
+    "themes": ["culture"],
+    "hours": 3,
+    "duration": "Duration 3 hours",
+    "price": 47,
+    "rating": 4.5,
+    "reviews": 496,
+    "image": "/images/gallery-8.jpg"
+  },
+  {
+    "id": "delhi-a24",
+    "cityId": "delhi",
+    "title": "Chandni Chowk: Photography Experience",
+    "destination": "Chandni Chowk",
+    "themes": ["hidden", "culture"],
+    "hours": 2,
+    "duration": "Duration 2 hours",
+    "price": 51,
+    "rating": 4,
+    "reviews": 710,
+    "image": "/images/delhi-1.jpg"
+  }
+]

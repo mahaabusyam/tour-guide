@@ -1,0 +1,5492 @@
+[
+  {
+    "id": "vintage-double-decker",
+    "title": "Vintage Double Decker Bus Tour & Thames River Cruise",
+    "location": "Gothenburg",
+    "rating": 5,
+    "reviews": 348,
+    "pricePerPerson": 39.45,
+    "maxGuests": 5,
+    "images": [
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3.5 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "See the highlights of London via 2 classic modes of transport on this half-day adventure. First, you will enjoy great views of Westminster Abbey, the Houses of Parliament, and the London Eye, as you meander through the historic streets on board a vintage double decker bus.",
+      "Continue to see St. Paul's Cathedral, Sir Christopher Wren's architectural masterpiece, where Admirals Nelson and Wellington are buried, and Princess Diana and Prince Charles got married. Continue to the Tower of London, built nearly 1,000 years ago during the reign of William the Conqueror.",
+      "Home to the Crown Jewels, the Tower is protected by the famous Beefeaters, and the imposing palace has been used as a fortress and a prison throughout its history. Your guide will take you to Traitors Gate, where prisoners entered the Tower for the last time.",
+      "Next, take a short trip along the River Thames, passing Shakespeare's Globe, Cleopatra's Needle, and London Bridge, before arriving at Westminster Pier. Rejoin the bus and head for Buckingham Palace. Make your way to the perfect spot to watch the world famous Changing of the Guard ceremony as the soldiers, dressed in their fabulous tunics and busbies, march to military music."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Discover London on board a classic Routemaster vintage double decker bus",
+        "Cruise down the River Thames",
+        "See the Changing of the Guard",
+        "Go to Westminster Abbey",
+        "Listen to the chimes of Big Ben and see the Houses of Parliament"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Double-decker Routemaster tour",
+        "Short trip along the River Thames",
+        "Changing of the Guard",
+        "Gratuities"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entry tickets to the Tower of London",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "new-york-1",
+    "title": "New York: Manhattan Skyline Cruise",
+    "location": "New York",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/new-york-1.webp",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Manhattan Skyline Cruise\", and discover the best of New York with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Times Square, Central Park and the Brooklyn Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Battery Park, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through New York",
+        "See Times Square and learn the stories behind it",
+        "Take photos at Central Park",
+        "Pass the Brooklyn Bridge on a scenic route",
+        "Finish near Battery Park with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the south entrance of Battery Park, next to the Staten Island Ferry terminal. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Battery Park, New York"
+    }
+  },
+  {
+    "id": "new-york-2",
+    "title": "New York: Central Park Bike Tour",
+    "location": "New York",
+    "rating": 4.5,
+    "reviews": 412,
+    "pricePerPerson": 45,
+    "maxGuests": 5,
+    "images": [
+      "/images/new-york-2.webp",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 3-hour experience, \"Central Park Bike Tour\", and discover the best of New York with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Times Square, Central Park and the Brooklyn Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Battery Park, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through New York",
+        "See Times Square and learn the stories behind it",
+        "Take photos at Central Park",
+        "Pass the Brooklyn Bridge on a scenic route",
+        "Finish near Battery Park with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "3 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the south entrance of Battery Park, next to the Staten Island Ferry terminal. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Battery Park, New York"
+    }
+  },
+  {
+    "id": "new-york-3",
+    "title": "New York: Statue of Liberty & Ellis Island",
+    "location": "New York",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/new-york-3.webp",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Statue of Liberty & Ellis Island\", and discover the best of New York with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Times Square, Central Park and the Brooklyn Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Battery Park, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through New York",
+        "See Times Square and learn the stories behind it",
+        "Take photos at Central Park",
+        "Pass the Brooklyn Bridge on a scenic route",
+        "Finish near Battery Park with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the south entrance of Battery Park, next to the Staten Island Ferry terminal. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Battery Park, New York"
+    }
+  },
+  {
+    "id": "new-york-4",
+    "title": "New York: Brooklyn Bridge Sunset Walk",
+    "location": "New York",
+    "rating": 3.5,
+    "reviews": 296,
+    "pricePerPerson": 55,
+    "maxGuests": 5,
+    "images": [
+      "/images/new-york-4.webp",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 4 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 4-hour experience, \"Brooklyn Bridge Sunset Walk\", and discover the best of New York with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Times Square, Central Park and the Brooklyn Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Battery Park, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through New York",
+        "See Times Square and learn the stories behind it",
+        "Take photos at Central Park",
+        "Pass the Brooklyn Bridge on a scenic route",
+        "Finish near Battery Park with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "4 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the south entrance of Battery Park, next to the Staten Island Ferry terminal. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Battery Park, New York"
+    }
+  },
+  {
+    "id": "california-1",
+    "title": "California: Pacific Coast Highway Road Trip",
+    "location": "California",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/california-1.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Pacific Coast Highway Road Trip\", and discover the best of California with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Golden Gate Bridge, Alcatraz Island and Fisherman's Wharf, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Lombard Street, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through California",
+        "See the Golden Gate Bridge and learn the stories behind it",
+        "Take photos at Alcatraz Island",
+        "Pass Fisherman's Wharf on a scenic route",
+        "Finish near Lombard Street with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the entrance of Pier 39, next to the Fisherman's Wharf sign. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Pier 39, San Francisco"
+    }
+  },
+  {
+    "id": "california-2",
+    "title": "California: Golden Gate & Alcatraz Tour",
+    "location": "California",
+    "rating": 4.5,
+    "reviews": 412,
+    "pricePerPerson": 45,
+    "maxGuests": 5,
+    "images": [
+      "/images/california-2.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 3-hour experience, \"Golden Gate & Alcatraz Tour\", and discover the best of California with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Golden Gate Bridge, Alcatraz Island and Fisherman's Wharf, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Lombard Street, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through California",
+        "See the Golden Gate Bridge and learn the stories behind it",
+        "Take photos at Alcatraz Island",
+        "Pass Fisherman's Wharf on a scenic route",
+        "Finish near Lombard Street with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "3 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the entrance of Pier 39, next to the Fisherman's Wharf sign. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Pier 39, San Francisco"
+    }
+  },
+  {
+    "id": "california-3",
+    "title": "California: Yosemite Valley Day Trip",
+    "location": "California",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/california-3.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Yosemite Valley Day Trip\", and discover the best of California with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Golden Gate Bridge, Alcatraz Island and Fisherman's Wharf, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Lombard Street, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through California",
+        "See the Golden Gate Bridge and learn the stories behind it",
+        "Take photos at Alcatraz Island",
+        "Pass Fisherman's Wharf on a scenic route",
+        "Finish near Lombard Street with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the entrance of Pier 39, next to the Fisherman's Wharf sign. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Pier 39, San Francisco"
+    }
+  },
+  {
+    "id": "california-4",
+    "title": "California: Hollywood & Beverly Hills Tour",
+    "location": "California",
+    "rating": 3.5,
+    "reviews": 296,
+    "pricePerPerson": 55,
+    "maxGuests": 5,
+    "images": [
+      "/images/california-4.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 4 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 4-hour experience, \"Hollywood & Beverly Hills Tour\", and discover the best of California with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Golden Gate Bridge, Alcatraz Island and Fisherman's Wharf, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Lombard Street, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through California",
+        "See the Golden Gate Bridge and learn the stories behind it",
+        "Take photos at Alcatraz Island",
+        "Pass Fisherman's Wharf on a scenic route",
+        "Finish near Lombard Street with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Spanish"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "4 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the entrance of Pier 39, next to the Fisherman's Wharf sign. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Pier 39, San Francisco"
+    }
+  },
+  {
+    "id": "alaska-1",
+    "title": "Alaska: Westminster to Greenwich River Thames",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-1.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Westminster to Greenwich River Thames\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "alaska-2",
+    "title": "Alaska: Vintage Double Decker Bus Tour & Thames",
+    "location": "Alaska",
+    "rating": 4.5,
+    "reviews": 412,
+    "pricePerPerson": 45,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-2.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 3-hour experience, \"Vintage Double Decker Bus Tour & Thames\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "3 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "alaska-3",
+    "title": "Alaska: Magic of London Tour with Afternoon Tea",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-3.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Magic of London Tour with Afternoon Tea\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "alaska-4",
+    "title": "Alaska: Magic of London Tour with Afternoon Tea",
+    "location": "Alaska",
+    "rating": 3.5,
+    "reviews": 296,
+    "pricePerPerson": 55,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-4.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 4 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 4-hour experience, \"Magic of London Tour with Afternoon Tea\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "4 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "sidney-1",
+    "title": "Sidney: Opera House & Harbour Cruise",
+    "location": "Sidney",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/sidney-1.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Opera House & Harbour Cruise\", and discover the best of Sidney with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Opera House, Circular Quay and Bondi Beach, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Harbour Bridge, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Sidney",
+        "See the Opera House and learn the stories behind it",
+        "Take photos at Circular Quay",
+        "Pass Bondi Beach on a scenic route",
+        "Finish near the Harbour Bridge with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Mandarin"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the Circular Quay ferry terminal, opposite the Opera House steps. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Circular Quay, Sydney"
+    }
+  },
+  {
+    "id": "sidney-2",
+    "title": "Sidney: Bondi to Coogee Coastal Walk",
+    "location": "Sidney",
+    "rating": 4.5,
+    "reviews": 412,
+    "pricePerPerson": 45,
+    "maxGuests": 5,
+    "images": [
+      "/images/sidney-2.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 3-hour experience, \"Bondi to Coogee Coastal Walk\", and discover the best of Sidney with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Opera House, Circular Quay and Bondi Beach, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Harbour Bridge, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Sidney",
+        "See the Opera House and learn the stories behind it",
+        "Take photos at Circular Quay",
+        "Pass Bondi Beach on a scenic route",
+        "Finish near the Harbour Bridge with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Mandarin"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "3 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the Circular Quay ferry terminal, opposite the Opera House steps. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Circular Quay, Sydney"
+    }
+  },
+  {
+    "id": "sidney-3",
+    "title": "Sidney: Blue Mountains Day Trip",
+    "location": "Sidney",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/sidney-3.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Blue Mountains Day Trip\", and discover the best of Sidney with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Opera House, Circular Quay and Bondi Beach, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Harbour Bridge, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Sidney",
+        "See the Opera House and learn the stories behind it",
+        "Take photos at Circular Quay",
+        "Pass Bondi Beach on a scenic route",
+        "Finish near the Harbour Bridge with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Mandarin"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the Circular Quay ferry terminal, opposite the Opera House steps. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Circular Quay, Sydney"
+    }
+  },
+  {
+    "id": "sidney-4",
+    "title": "Sidney: Taronga Zoo Family Day",
+    "location": "Sidney",
+    "rating": 3.5,
+    "reviews": 296,
+    "pricePerPerson": 55,
+    "maxGuests": 5,
+    "images": [
+      "/images/sidney-4.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 4 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 4-hour experience, \"Taronga Zoo Family Day\", and discover the best of Sidney with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Opera House, Circular Quay and Bondi Beach, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Harbour Bridge, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Sidney",
+        "See the Opera House and learn the stories behind it",
+        "Take photos at Circular Quay",
+        "Pass Bondi Beach on a scenic route",
+        "Finish near the Harbour Bridge with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Mandarin"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "4 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the Circular Quay ferry terminal, opposite the Opera House steps. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Circular Quay, Sydney"
+    }
+  },
+  {
+    "id": "dubai-1",
+    "title": "Dubai: Desert Safari with BBQ Dinner",
+    "location": "Dubai",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/dubai-1.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Desert Safari with BBQ Dinner\", and discover the best of Dubai with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Burj Khalifa, Dubai Marina and the Old Town, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Dubai Fountain, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Dubai",
+        "See the Burj Khalifa and learn the stories behind it",
+        "Take photos at Dubai Marina",
+        "Pass the Old Town on a scenic route",
+        "Finish near the Dubai Fountain with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Arabic"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the main entrance of The Dubai Mall, next to the fountain walkway. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "The Dubai Mall, Dubai"
+    }
+  },
+  {
+    "id": "dubai-2",
+    "title": "Dubai: Burj Khalifa & Old Town Tour",
+    "location": "Dubai",
+    "rating": 4.5,
+    "reviews": 412,
+    "pricePerPerson": 45,
+    "maxGuests": 5,
+    "images": [
+      "/images/dubai-2.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 3-hour experience, \"Burj Khalifa & Old Town Tour\", and discover the best of Dubai with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Burj Khalifa, Dubai Marina and the Old Town, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Dubai Fountain, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Dubai",
+        "See the Burj Khalifa and learn the stories behind it",
+        "Take photos at Dubai Marina",
+        "Pass the Old Town on a scenic route",
+        "Finish near the Dubai Fountain with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Arabic"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "3 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the main entrance of The Dubai Mall, next to the fountain walkway. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "The Dubai Mall, Dubai"
+    }
+  },
+  {
+    "id": "dubai-3",
+    "title": "Dubai: Marina Yacht Cruise",
+    "location": "Dubai",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/dubai-3.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Marina Yacht Cruise\", and discover the best of Dubai with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Burj Khalifa, Dubai Marina and the Old Town, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Dubai Fountain, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Dubai",
+        "See the Burj Khalifa and learn the stories behind it",
+        "Take photos at Dubai Marina",
+        "Pass the Old Town on a scenic route",
+        "Finish near the Dubai Fountain with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Arabic"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the main entrance of The Dubai Mall, next to the fountain walkway. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "The Dubai Mall, Dubai"
+    }
+  },
+  {
+    "id": "dubai-4",
+    "title": "Dubai: Abu Dhabi Grand Mosque Trip",
+    "location": "Dubai",
+    "rating": 3.5,
+    "reviews": 296,
+    "pricePerPerson": 55,
+    "maxGuests": 5,
+    "images": [
+      "/images/dubai-4.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 4 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 4-hour experience, \"Abu Dhabi Grand Mosque Trip\", and discover the best of Dubai with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Burj Khalifa, Dubai Marina and the Old Town, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Dubai Fountain, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Dubai",
+        "See the Burj Khalifa and learn the stories behind it",
+        "Take photos at Dubai Marina",
+        "Pass the Old Town on a scenic route",
+        "Finish near the Dubai Fountain with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Arabic"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "4 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the main entrance of The Dubai Mall, next to the fountain walkway. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "The Dubai Mall, Dubai"
+    }
+  },
+  {
+    "id": "london-1",
+    "title": "London: Westminster to Greenwich River Thames",
+    "location": "London",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/london-1.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Westminster to Greenwich River Thames\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "london-2",
+    "title": "London: Vintage Double Decker Bus Tour",
+    "location": "London",
+    "rating": 4.5,
+    "reviews": 412,
+    "pricePerPerson": 45,
+    "maxGuests": 5,
+    "images": [
+      "/images/london-2.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 3-hour experience, \"Vintage Double Decker Bus Tour\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "3 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "london-3",
+    "title": "London: Magic of London with Afternoon Tea",
+    "location": "London",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/london-3.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Magic of London with Afternoon Tea\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "london-4",
+    "title": "London: Tower Bridge & Tower of London",
+    "location": "London",
+    "rating": 3.5,
+    "reviews": 296,
+    "pricePerPerson": 55,
+    "maxGuests": 5,
+    "images": [
+      "/images/london-4.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 4 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 4-hour experience, \"Tower Bridge & Tower of London\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "4 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "tokyo-1",
+    "title": "Tokyo: Shibuya & Harajuku Street Tour",
+    "location": "Tokyo",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/tokyo-1.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Shibuya & Harajuku Street Tour\", and discover the best of Tokyo with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Shibuya Crossing, Senso-ji Temple and Harajuku, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Tokyo Skytree, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Tokyo",
+        "See Shibuya Crossing and learn the stories behind it",
+        "Take photos at Senso-ji Temple",
+        "Pass Harajuku on a scenic route",
+        "Finish near the Tokyo Skytree with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Japanese"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the Hachiko statue exit of Shibuya Station. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Hachiko Statue, Shibuya, Tokyo"
+    }
+  },
+  {
+    "id": "tokyo-2",
+    "title": "Tokyo: Mount Fuji & Hakone Day Trip",
+    "location": "Tokyo",
+    "rating": 4.5,
+    "reviews": 412,
+    "pricePerPerson": 45,
+    "maxGuests": 5,
+    "images": [
+      "/images/tokyo-2.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 3-hour experience, \"Mount Fuji & Hakone Day Trip\", and discover the best of Tokyo with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Shibuya Crossing, Senso-ji Temple and Harajuku, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Tokyo Skytree, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Tokyo",
+        "See Shibuya Crossing and learn the stories behind it",
+        "Take photos at Senso-ji Temple",
+        "Pass Harajuku on a scenic route",
+        "Finish near the Tokyo Skytree with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Japanese"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "3 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the Hachiko statue exit of Shibuya Station. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Hachiko Statue, Shibuya, Tokyo"
+    }
+  },
+  {
+    "id": "tokyo-3",
+    "title": "Tokyo: Tsukiji Market Food Tour",
+    "location": "Tokyo",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/tokyo-3.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Tsukiji Market Food Tour\", and discover the best of Tokyo with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Shibuya Crossing, Senso-ji Temple and Harajuku, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Tokyo Skytree, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Tokyo",
+        "See Shibuya Crossing and learn the stories behind it",
+        "Take photos at Senso-ji Temple",
+        "Pass Harajuku on a scenic route",
+        "Finish near the Tokyo Skytree with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Japanese"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the Hachiko statue exit of Shibuya Station. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Hachiko Statue, Shibuya, Tokyo"
+    }
+  },
+  {
+    "id": "tokyo-4",
+    "title": "Tokyo: Asakusa Temples & Skytree",
+    "location": "Tokyo",
+    "rating": 3.5,
+    "reviews": 296,
+    "pricePerPerson": 55,
+    "maxGuests": 5,
+    "images": [
+      "/images/tokyo-4.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 4 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 4-hour experience, \"Asakusa Temples & Skytree\", and discover the best of Tokyo with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Shibuya Crossing, Senso-ji Temple and Harajuku, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near the Tokyo Skytree, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Tokyo",
+        "See Shibuya Crossing and learn the stories behind it",
+        "Take photos at Senso-ji Temple",
+        "Pass Harajuku on a scenic route",
+        "Finish near the Tokyo Skytree with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Japanese"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "4 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the Hachiko statue exit of Shibuya Station. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Hachiko Statue, Shibuya, Tokyo"
+    }
+  },
+  {
+    "id": "delhi-1",
+    "title": "Delhi: Old Delhi Heritage Walk",
+    "location": "Delhi",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/delhi-1.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Old Delhi Heritage Walk\", and discover the best of Delhi with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Red Fort, India Gate and Humayun's Tomb, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Chandni Chowk, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Delhi",
+        "See the Red Fort and learn the stories behind it",
+        "Take photos at India Gate",
+        "Pass Humayun's Tomb on a scenic route",
+        "Finish near Chandni Chowk with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Hindi"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the main gate of the Red Fort. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Red Fort, Delhi"
+    }
+  },
+  {
+    "id": "delhi-2",
+    "title": "Delhi: Taj Mahal Sunrise from Delhi",
+    "location": "Delhi",
+    "rating": 4.5,
+    "reviews": 412,
+    "pricePerPerson": 45,
+    "maxGuests": 5,
+    "images": [
+      "/images/delhi-2.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 3-hour experience, \"Taj Mahal Sunrise from Delhi\", and discover the best of Delhi with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Red Fort, India Gate and Humayun's Tomb, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Chandni Chowk, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Delhi",
+        "See the Red Fort and learn the stories behind it",
+        "Take photos at India Gate",
+        "Pass Humayun's Tomb on a scenic route",
+        "Finish near Chandni Chowk with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Hindi"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "3 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the main gate of the Red Fort. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Red Fort, Delhi"
+    }
+  },
+  {
+    "id": "delhi-3",
+    "title": "Delhi: Street Food Evening Tour",
+    "location": "Delhi",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/delhi-3.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Street Food Evening Tour\", and discover the best of Delhi with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Red Fort, India Gate and Humayun's Tomb, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Chandni Chowk, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Delhi",
+        "See the Red Fort and learn the stories behind it",
+        "Take photos at India Gate",
+        "Pass Humayun's Tomb on a scenic route",
+        "Finish near Chandni Chowk with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Hindi"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the main gate of the Red Fort. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Red Fort, Delhi"
+    }
+  },
+  {
+    "id": "delhi-4",
+    "title": "Delhi: Humayun's Tomb & Qutub Minar",
+    "location": "Delhi",
+    "rating": 3.5,
+    "reviews": 296,
+    "pricePerPerson": 55,
+    "maxGuests": 5,
+    "images": [
+      "/images/delhi-4.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 4 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 4-hour experience, \"Humayun's Tomb & Qutub Minar\", and discover the best of Delhi with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see the Red Fort, India Gate and Humayun's Tomb, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near Chandni Chowk, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through Delhi",
+        "See the Red Fort and learn the stories behind it",
+        "Take photos at India Gate",
+        "Pass Humayun's Tomb on a scenic route",
+        "Finish near Chandni Chowk with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "Hindi"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "4 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide at the main gate of the Red Fort. Look for a guide wearing a yellow Tour Guide jacket and holding a flag",
+      "mapQuery": "Red Fort, Delhi"
+    }
+  },
+  {
+    "id": "related-today-1",
+    "title": "Alaska: Westminster to Greenwich River Thames",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-1.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Westminster to Greenwich River Thames\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-today-2",
+    "title": "Alaska: Vintage Double Decker Bus Tour & Thames",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-2.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Vintage Double Decker Bus Tour & Thames\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-today-3",
+    "title": "Alaska: Magic of London Tour with Afternoon Tea at",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-3.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Magic of London Tour with Afternoon Tea at\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-today-4",
+    "title": "Alaska: Magic of London Tour with Afternoon Tea at",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-4.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Magic of London Tour with Afternoon Tea at\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-today-5",
+    "title": "Alaska: Thames Sunset Cruise with Dinner",
+    "location": "Alaska",
+    "rating": 4.5,
+    "reviews": 310,
+    "pricePerPerson": 48,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-1.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 3 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 3-hour experience, \"Thames Sunset Cruise with Dinner\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "3 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-today-6",
+    "title": "Alaska: Royal London Palaces Walking Tour",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 205,
+    "pricePerPerson": 29,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-2.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Royal London Palaces Walking Tour\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-london-1",
+    "title": "Alaska: Westminster to Greenwich River Thames",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-1.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Westminster to Greenwich River Thames\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-london-2",
+    "title": "Alaska: Vintage Double Decker Bus Tour & Thames",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-2.jpg",
+      "/images/gallery-8.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Vintage Double Decker Bus Tour & Thames\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-london-3",
+    "title": "Alaska: Magic of London Tour with Afternoon Tea at",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-3.jpg",
+      "/images/gallery-1.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Magic of London Tour with Afternoon Tea at\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "10 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-london-4",
+    "title": "Alaska: Magic of London Tour with Afternoon Tea at",
+    "location": "Alaska",
+    "rating": 4,
+    "reviews": 584,
+    "pricePerPerson": 35,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-4.jpg",
+      "/images/gallery-2.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"Magic of London Tour with Afternoon Tea at\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "12 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-london-5",
+    "title": "Alaska: Tower of London & Crown Jewels Visit",
+    "location": "Alaska",
+    "rating": 4.5,
+    "reviews": 442,
+    "pricePerPerson": 55,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-3.jpg",
+      "/images/gallery-3.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 4 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 4-hour experience, \"Tower of London & Crown Jewels Visit\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "4 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "5 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  },
+  {
+    "id": "related-london-6",
+    "title": "Alaska: West End Evening Walking Tour",
+    "location": "Alaska",
+    "rating": 3.5,
+    "reviews": 168,
+    "pricePerPerson": 32,
+    "maxGuests": 5,
+    "images": [
+      "/images/alaska-4.jpg",
+      "/images/gallery-4.jpg",
+      "/images/gallery-5.jpg",
+      "/images/gallery-6.jpg",
+      "/images/gallery-7.jpg",
+      "/images/gallery-8.jpg"
+    ],
+    "highlights": [
+      {
+        "id": 1,
+        "icon": "cancellation",
+        "title": "Free Cancellation",
+        "text": "Cancel up to 24 hours in advance to receive a full refund"
+      },
+      {
+        "id": 2,
+        "icon": "health",
+        "title": "Health Precautions",
+        "text": "Special health and safety measures apply. Learn more"
+      },
+      {
+        "id": 3,
+        "icon": "ticket",
+        "title": "Mobile Ticketing",
+        "text": "Use your phone or print your voucher"
+      },
+      {
+        "id": 4,
+        "icon": "duration",
+        "title": "Duration 2 Hours",
+        "text": "Check availability to see starting times."
+      },
+      {
+        "id": 5,
+        "icon": "confirmation",
+        "title": "Instant Confirmation",
+        "text": "Don't wait for the confirmation!"
+      },
+      {
+        "id": 6,
+        "icon": "guide",
+        "title": "Live Tour Guide In English",
+        "text": "English"
+      }
+    ],
+    "description": [
+      "Join this 2-hour experience, \"West End Evening Walking Tour\", and discover the best of London with a passionate local guide. From the first stop to the last, the pace is relaxed and every moment is planned so you never feel rushed.",
+      "You will see Westminster Abbey, the Houses of Parliament and Tower Bridge, with plenty of time for photos and questions. Your guide shares stories and local history that you will not find in a guidebook, and gives practical tips for the rest of your stay.",
+      "Small groups keep the experience personal and comfortable. Comfortable transport is provided throughout, and the route is designed to avoid the biggest crowds so you can enjoy every viewpoint.",
+      "Finish the tour near St. Paul's Cathedral, where you can continue exploring on your own. This tour is a great choice for families, couples and friends, and it runs in all weather, so dress for the conditions and bring a camera."
+    ],
+    "activity": {
+      "subtitle": "What You Will Do",
+      "items": [
+        "Meet your friendly local guide and start your journey through London",
+        "See Westminster Abbey and learn the stories behind it",
+        "Take photos at the Houses of Parliament",
+        "Pass Tower Bridge on a scenic route",
+        "Finish near St. Paul's Cathedral with time to explore"
+      ]
+    },
+    "included": {
+      "includes": [
+        "Professional local guide",
+        "Transport during the tour",
+        "Bottled water on board",
+        "Taxes and service fees"
+      ],
+      "notIncludes": [
+        "Hotel pickup and drop-off",
+        "Food and drinks",
+        "Entrance tickets",
+        "Personal expenses"
+      ]
+    },
+    "safety": {
+      "subtitle": "Health Precautions",
+      "items": [
+        "All required protective equipment is provided",
+        "All areas that customers touch are frequently cleaned",
+        "You must keep social distance while in vehicles",
+        "The number of visitors is limited to reduce crowds"
+      ]
+    },
+    "details": [
+      {
+        "id": "language",
+        "label": "Language",
+        "values": [
+          "English",
+          "French"
+        ]
+      },
+      {
+        "id": "duration",
+        "label": "Duration",
+        "values": [
+          "2 hours"
+        ]
+      },
+      {
+        "id": "people",
+        "label": "Number Of People",
+        "values": [
+          "8 People"
+        ]
+      }
+    ],
+    "meetingPoint": {
+      "address": "Meet your guide inside the west entrance of Altab Ali Park (Whitechapel Road). It's opposite the entrance to Aldgate East Tube Station and the Whitechapel Gallery. Look for a guide wearing SMT attire and holding a red SMT flag",
+      "mapQuery": "Altab Ali Park, Whitechapel Road, London"
+    }
+  }
+]

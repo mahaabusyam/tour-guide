@@ -1,0 +1,6 @@
+[
+  { "id": 1, "image": "/images/story-1.png", "author": { "name": "Jackie Moncada", "avatar": "/images/avatar.webp" }, "title": "7 Signs and Symptoms of Iodine Deficiency", "href": "#" },
+  { "id": 2, "image": "/images/story-2.png", "author": { "name": "Jackie Moncada", "avatar": "/images/avatar.webp" }, "title": "How to Fix Your Sleep Schedule: 7 Easy Ways", "href": "#" },
+  { "id": 3, "image": "/images/story-3.png", "author": { "name": "Jackie Moncada", "avatar": "/images/avatar.webp" }, "title": "10 Proven Health Benefits of Cinnamon", "href": "#" },
+  { "id": 4, "image": "/images/story-4.jpg", "author": { "name": "Jackie Moncada", "avatar": "/images/avatar.webp" }, "title": "11 Health Benefits of Turmeric and Curcumin", "href": "#" }
+]
