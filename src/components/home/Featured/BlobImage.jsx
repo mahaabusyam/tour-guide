@@ -1,5 +1,6 @@
 import { Box } from '@mui/material';
 import { morph, float, withMotion } from '../../../styles/animations';
+import trendingImage from '../../../assets/images/Trending.jpg';
 
 const BLOB_SHAPE = '60% 40% 55% 45% / 50% 60% 40% 50%';
 
@@ -42,7 +43,7 @@ const BlobImage = ({ src, alt }) => (
     {/* الصورة نفسها */}
     <Box
       component="img"
-      src={"src/assets/images/Trending.jpg"}
+      src={trendingImage}
       alt={alt}
       sx={{
         position: 'absolute',
