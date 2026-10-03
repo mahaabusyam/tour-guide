@@ -1,0 +1,22 @@
+{
+  "trending": {
+    "id": "wilderlife-of-alaska",
+    "badge": "Trending Now",
+    "title": "Wilderlife of Alaska",
+    "location": "Alaska, USA",
+    "rating": 4.9,
+    "reviews": 300,
+    "description": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+    "image": "/images/alaska.webp"
+  },
+  "destinations": [
+    { "id": "new-york-1", "title": "New York: Manhattan Skyline Cruise", "image": "/images/new-york-1.webp", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+    { "id": "california-2", "title": "California: Golden Gate & Alcatraz Tour", "image": "/images/california-2.jpg", "duration": "Duration 3 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 45, "rating": 4.5, "reviews": 412 },
+    { "id": "alaska-3", "title": "Alaska: Magic of London Tour with Afternoon Tea", "image": "/images/alaska-3.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+    { "id": "sidney-4", "title": "Sidney: Taronga Zoo Family Day", "image": "/images/sidney-4.jpg", "duration": "Duration 4 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 55, "rating": 3.5, "reviews": 296 },
+    { "id": "dubai-1", "title": "Dubai: Desert Safari with BBQ Dinner", "image": "/images/dubai-1.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+    { "id": "london-2", "title": "London: Vintage Double Decker Bus Tour", "image": "/images/london-2.jpg", "duration": "Duration 3 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 45, "rating": 4.5, "reviews": 412 },
+    { "id": "tokyo-3", "title": "Tokyo: Tsukiji Market Food Tour", "image": "/images/tokyo-3.jpg", "duration": "Duration 2 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 35, "rating": 4, "reviews": 584 },
+    { "id": "delhi-4", "title": "Delhi: Humayun's Tomb & Qutub Minar", "image": "/images/delhi-4.jpg", "duration": "Duration 4 hours", "transport": "Transport Facility", "plan": "Family Plan", "price": 55, "rating": 3.5, "reviews": 296 }
+  ]
+}
