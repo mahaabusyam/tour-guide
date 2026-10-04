@@ -85,14 +85,20 @@ const TourDetails = () => {
         />
 
         <Box
-          sx={{
-            display: 'grid',
-            gap: 3,
-            alignItems: 'start',
-            gridTemplateColumns: { xs: '1fr', md: 'minmax(0, 1fr) 278px' },
-          }}
-        >
-          <Box>
+  sx={{
+    display: 'grid',
+    gap: 3,
+    alignItems: 'start',
+    width: '100%',
+    maxWidth: '100%',
+    minWidth: 0,
+    gridTemplateColumns: {
+      xs: 'minmax(0, 1fr)',
+      md: 'minmax(0, 1fr) 278px',
+    },
+  }}
+>
+          <Box sx={{ minWidth: 0, width: '100%' }}>
             <TripGallery images={tour.images} title={tour.title} location={tour.location} />
             <TripHighlights items={tour.highlights} />
             {/* الجزء التالي: Description, Activity, Included, Safety, Details, Meeting Point */}
@@ -104,7 +110,12 @@ const TourDetails = () => {
           </Box>
 
           {/* العمود الأيمن ثابت أثناء التمرير */}
-          <Box sx={{ position: { md: 'sticky' }, top: 90 }}>
+          <Box sx={{
+    position: { md: 'sticky' },
+    top: 90,
+    minWidth: 0,
+    width: '100%',
+  }}>
             <BookingCard tour={tour} />
           </Box>
         </Box>
