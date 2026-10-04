@@ -6,6 +6,8 @@ import { ThemeProvider, CssBaseline } from '@mui/material';
 import App from './App';
 import theme from './theme/theme';
 import { store } from './app/store';
+import ErrorBoundary from './components/common/ErrorBoundary';
+import DevDiagnostics from './components/common/DevDiagnostics';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
@@ -13,7 +15,10 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <BrowserRouter>
         <ThemeProvider theme={theme}>
           <CssBaseline />
-          <App />
+          <ErrorBoundary>
+            <App />
+          </ErrorBoundary>
+          {import.meta.env.DEV && <DevDiagnostics />}
         </ThemeProvider>
       </BrowserRouter>
     </Provider>

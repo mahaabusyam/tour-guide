@@ -1,10 +1,12 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import { getCities } from '../../api/citiesApi';
-import { loadFromStorage } from '../../utils/storage';
-import { saveToStorage } from '../../utils/storage';
+import { loadCache, loadFromStorage, saveCache } from '../../utils/storage';
 
-const CACHE_KEY = 'cities_cache_v10';
-const CACHE_TTL = 10 * 60 * 1000; // 10 دقائق
+const CACHE_KEY = 'cities_cache_v3'; // مفتاح جديد: يمسح أي كاش قديم أو فاسد
+const CACHE_TTL = 10 * 60 * 1000;
+
+const isCities = (data) =>
+  Array.isArray(data) && data.every((city) => city && Array.isArray(city.tours));
 
 // يعطي كل رحلة slug فريداً: اسم المدينة + رقم الرحلة
 const addSlugs = (cities) =>
@@ -16,27 +18,23 @@ const addSlugs = (cities) =>
 export const fetchCities = createAsyncThunk(
   'cities/fetchCities',
   async (_, { signal }) => {
-    const cached = loadFromStorage(CACHE_KEY);
-    if (cached && Date.now() - cached.savedAt < CACHE_TTL) {
-      return addSlugs(cached.data);
-    }
+    const cached = loadCache(CACHE_KEY, CACHE_TTL, isCities);
+    if (cached) return addSlugs(cached);
 
     const data = await getCities(signal);
-    saveToStorage(CACHE_KEY, { data, savedAt: Date.now() });
+    saveCache(CACHE_KEY, data);
     return addSlugs(data);
   }
 );
 
-const initialState = {
-  items: [],
-  status: 'idle', // idle | loading | succeeded | failed
-  error: null,
-  selectedCityId: loadFromStorage('selectedCityId'), // آخر مدينة اختارها المستخدم
-};
-
 const citiesSlice = createSlice({
   name: 'cities',
-  initialState,
+  initialState: {
+    items: [],
+    status: 'idle',
+    error: null,
+    selectedCityId: loadFromStorage('selectedCityId'),
+  },
   reducers: {
     selectCity: (state, action) => {
       state.selectedCityId = action.payload;
@@ -51,9 +49,9 @@ const citiesSlice = createSlice({
       .addCase(fetchCities.fulfilled, (state, action) => {
         state.status = 'succeeded';
         state.items = action.payload;
-     })
+      })
       .addCase(fetchCities.rejected, (state, action) => {
-        if (action.meta.aborted) return; // إلغاء مقصود، ليس خطأ
+        if (action.meta.aborted) return;
         state.status = 'failed';
         state.error = action.error.message;
       });
@@ -62,13 +60,12 @@ const citiesSlice = createSlice({
 
 export const { selectCity } = citiesSlice.actions;
 
-// Selectors
 export const selectCities = (state) => state.cities.items;
 export const selectCitiesStatus = (state) => state.cities.status;
 export const selectCitiesError = (state) => state.cities.error;
 export const selectSelectedCity = (state) => {
   const { items, selectedCityId } = state.cities;
-  return items.find((c) => c.id === selectedCityId) ?? items[0] ?? null;
+  return items.find((city) => city.id === selectedCityId) ?? items[0] ?? null;
 };
 
 export default citiesSlice.reducer;

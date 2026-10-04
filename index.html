@@ -5,17 +5,10 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>tour-guide</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700&family=Merriweather:wght@700&display=swap" rel="stylesheet" />
     <script>
-  // أداة تشخيص مؤقتة: تعرض أي خطأ على الشاشة بدل الصفحة البيضاء
-  window.addEventListener('error', function (event) {
-    var box = document.createElement('pre');
-    box.style.cssText =
-      'white-space:pre-wrap;word-break:break-word;margin:0;padding:16px;background:#fff3f3;color:#b71c1c;font:13px/1.6 monospace;direction:ltr;position:relative;z-index:99999';
-    box.textContent =
-      (event.error && event.error.stack) || event.message + '\n' + event.filename + ':' + event.lineno;
-    document.body.prepend(box);
-  });
     </script>
   </head>
   <body>

@@ -1,5 +1,6 @@
 import { useCallback, useMemo } from 'react';
 import { useSearchParams } from 'react-router-dom';
+import { SORT_OPTIONS } from '../constants/activities';
 
 const readList = (params, key) => params.get(key)?.split(',').filter(Boolean) ?? [];
 
@@ -11,7 +12,9 @@ const useActivityFilters = () => {
       theme: readList(params, 'theme'),
       duration: readList(params, 'duration'),
       destination: readList(params, 'destination'),
-      sort: params.get('sort') ?? 'popularity',
+      sort: SORT_OPTIONS.some((option) => option.value === params.get('sort'))
+  ? params.get('sort')
+  : 'popularity',
     }),
     [params]
   );

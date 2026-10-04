@@ -134,3 +134,7 @@ export const shake = keyframes`
   20%, 60% { transform: translateX(-8px); }
   40%, 80% { transform: translateX(8px); }
 `;
+export const swing = keyframes`
+  0%, 100% { transform: rotate(-35deg); }
+  50%      { transform: rotate(35deg); }
+`;

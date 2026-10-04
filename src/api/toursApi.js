@@ -1,15 +1,22 @@
 import axiosInstance from './axiosInstance';
+import { expectArray, expectObject } from './validate';
 
 export const getTours = async (signal) => {
-  const response = await axiosInstance.get(`${import.meta.env.BASE_URL}data/tours.json`, { signal });
-  return response.data;
+  const { data } = await axiosInstance.get('/data/tours.json', { signal });
+  return expectArray(data, 'tours.json');
 };
+
 export const getCatalogSources = async (signal) => {
   const [cities, featured, activities] = await Promise.all([
-    axiosInstance.get(`${import.meta.env.BASE_URL}data/cities.json`, { signal }),
-    axiosInstance.get(`${import.meta.env.BASE_URL}data/featured.json`, { signal }),
-    axiosInstance.get(`${import.meta.env.BASE_URL}data/activities.json`, { signal }),
+    axiosInstance.get('/data/cities.json', { signal }),
+    axiosInstance.get('/data/featured.json', { signal }),
+    axiosInstance.get('/data/activities.json', { signal }),
   ]);
+
+  expectArray(cities.data, 'cities.json');
+  expectObject(featured.data, 'featured.json', ['destinations']);
+  expectArray(featured.data.destinations, 'featured.json (destinations)');
+  expectArray(activities.data, 'activities.json');
 
   return { cities: cities.data, featured: featured.data, activities: activities.data };
 };

@@ -1,15 +1,11 @@
 import axiosInstance from './axiosInstance';
+import { expectArray } from './validate';
 
-export const getGallery = async (signal) => {
-  const response = await axiosInstance.get(`${import.meta.env.BASE_URL}data/gallery.json`, { signal });
-  return response.data;
+const fetchList = async (path, signal) => {
+  const { data } = await axiosInstance.get(path, { signal });
+  return expectArray(data, path);
 };
 
-export const getStories = async (signal) => {
-  const response = await axiosInstance.get(`${import.meta.env.BASE_URL}data/stories.json`, { signal });
-  return response.data;
-};
-export const getRelated = async (signal) => {
-  const response = await axiosInstance.get(`${import.meta.env.BASE_URL}data/related.json`, { signal });
-  return response.data;
-};
+export const getGallery = (signal) => fetchList('/data/gallery.json', signal);
+export const getStories = (signal) => fetchList('/data/stories.json', signal);
+export const getRelated = (signal) => fetchList('/data/related.json', signal);

@@ -19,17 +19,19 @@ const AnimatedBackground = ({ image }) => (
       }}
     >
       <Box
-        sx={{
-          width: '100%',
-          height: '100%',
-          backgroundImage: `url(${image})`,
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-          filter: 'blur(10px)',
-          willChange: 'transform',
-          ...withMotion(`${kenBurns} 24s ease-in-out infinite alternate`),
-        }}
-      />
+  component="img"
+  src={image}
+  alt=""
+  sx={{
+    width: '100%',
+    height: '100%',
+    objectFit: 'cover',
+    objectPosition: 'center',
+    filter: 'blur(10px)',
+    willChange: 'transform',
+    ...withMotion(`${kenBurns} 24s ease-in-out infinite alternate`),
+  }}
+/>
     </Box>
 
     {/* التدرّج اللوني المتنقل */}

@@ -47,7 +47,8 @@ const Label = ({ children }) => (
 
 const BookingCard = ({ tour }) => {
   const dispatch = useDispatch();
-  const { from, to, guests } = useSelector(selectBooking);
+  const { from, to, guests: storedGuests } = useSelector(selectBooking);
+  const guests = Math.min(storedGuests, tour.maxGuests);
   const isSaved = useSelector(selectFavoriteIds).includes(tour.id);
   const [status, setStatus] = useState('idle'); // idle | loading | success
   const [snack, setSnack] = useState('');
