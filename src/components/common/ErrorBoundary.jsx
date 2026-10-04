@@ -34,7 +34,7 @@ class ErrorBoundary extends Component {
             <Button variant="contained" onClick={this.reset}>
               Try again
             </Button>
-            <Button variant="outlined" onClick={() => window.location.assign('/')}>
+            <Button variant="outlined" onClick={() => window.location.assign(import.meta.env.BASE_URL)}>
               Back to home
             </Button>
           </Box>

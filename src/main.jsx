@@ -12,7 +12,7 @@ import DevDiagnostics from './components/common/DevDiagnostics';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="/tour-guide">
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <ThemeProvider theme={theme}>
           <CssBaseline />
           <ErrorBoundary>

@@ -1,10 +1,9 @@
 import trendingImage from '../assets/images/Trending.jpg';
 import hotel1Image from '../assets/images/hotel-1.jpg';
 import hotel2Image from '../assets/images/hotel-2.jpg';
-
+import { prefixAssets } from '../utils/assets';
 export const ACCENT = '#22CFF0';
-
-export const APP_PROMO = {
+export const APP_PROMO = prefixAssets({
   background: trendingImage,
   title: 'Smart City Tour Mobile App',
   subtitle: 'Available on IOS & Android',
@@ -81,4 +80,4 @@ export const APP_PROMO = {
     image: '/tour-guide/images/tokyo.webp',
   },
 ],
-};
+});

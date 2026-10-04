@@ -96,9 +96,6 @@ const Footer = () => {
           <Typography sx={{ fontSize: 13, color: 'rgba(255,255,255,0.6)' }}>
             Copyright {new Date().getFullYear()} Tour Guide. All Rights Reserved
           </Typography>
-          <Typography sx={{ fontSize: 10, color: 'rgba(255,255,255,0.35)' }}>
-  build {__BUILD_TIME__.slice(0, 16).replace('T', ' ')}
-</Typography>
           <SocialLinks />
         </Container>
       </Box>

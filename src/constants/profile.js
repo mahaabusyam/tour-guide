@@ -6,14 +6,16 @@ export const PROFILE_TABS = [
 ];
 
 // مستخدم تجريبي: لا يوجد Backend حقيقي
-export const DEMO_USER = {
+import { prefixAssets } from '../utils/assets';
+
+export const DEMO_USER = prefixAssets({
   name: 'Masum Rana',
   birthDate: '1990-03-15',
   phone: '+46-7644 394 68',
   location: 'Gothenburg',
   email: 'masumrana15@gmail.com',
   avatar: '/images/avatars/masum.webp',
-};
+});
 
 export const DEFAULT_SETTINGS = {
   newsletter: true,
