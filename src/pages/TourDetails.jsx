@@ -83,8 +83,7 @@ const TourDetails = () => {
           rating={tour.rating}
           reviews={tour.reviews}
         />
-
-        <Box
+      <Box
   sx={{
     display: 'grid',
     gap: 3,
@@ -95,46 +94,44 @@ const TourDetails = () => {
     boxSizing: 'border-box',
     gridTemplateColumns: {
       xs: 'minmax(0, 1fr)',
-      md: 'minmax(0, 1fr) 278px',
+      md: 'minmax(0, 1fr) 380px',
     },
   }}
 >
-          <Box
-  sx={{
-    display: 'grid',
-    gap: 3,
-    alignItems: 'start',
-    width: '100%',
-    maxWidth: '100%',
-    minWidth: 0,
-    overflow: 'hidden',
-    boxSizing: 'border-box',
-    gridTemplateColumns: {
-      xs: 'minmax(0, 1fr)',
-      md: 'minmax(0, 1fr) 278px',
-    },
-  }}
->
-            <TripGallery images={tour.images} title={tour.title} location={tour.location} />
-            <TripHighlights items={tour.highlights} />
-            {/* الجزء التالي: Description, Activity, Included, Safety, Details, Meeting Point */}
-            {tour.description && <TripDescription paragraphs={tour.description} />}
-{tour.activity && <TripListSection title="Activity" {...tour.activity} />}
-{tour.included && <TripIncluded {...tour.included} />}
-{tour.safety && <TripListSection title="Safety" {...tour.safety} />}
-{tour.details && <TripDetails details={tour.details} meetingPoint={tour.meetingPoint} />}
-          </Box>
+  {/* العمود الأيسر: يحتوي على كافة تفاصيل الرحلة مرتبة عمودياً تحت بعضها */}
+  <Box
+    sx={{
+      display: 'flex',
+      flexDirection: 'column',
+      gap: 3,
+      minWidth: 0,
+      overflow: 'hidden',
+    }}
+  >
+    <TripGallery images={tour.images} title={tour.title} location={tour.location} />
+    <TripHighlights items={tour.highlights} />
+    
+    {tour.description && <TripDescription paragraphs={tour.description} />}
+    {tour.activity && <TripListSection title="Activity" {...tour.activity} />}
+    {tour.included && <TripIncluded {...tour.included} />}
+    {tour.safety && <TripListSection title="Safety" {...tour.safety} />}
+    {tour.details && <TripDetails details={tour.details} meetingPoint={tour.meetingPoint} />}
+  </Box>
 
-          {/* العمود الأيمن ثابت أثناء التمرير */}
-          <Box sx={{
-    position: { md: 'sticky' },
-    top: 90,
-    minWidth: 0,
-    width: '100%',
-  }}>
-            <BookingCard tour={tour} />
-          </Box>
-        </Box>
+  {/* العمود الأيمن: صندوق الحجز الثابت أثناء التمرير */}
+  <Box
+    sx={{
+      position: { md: 'sticky' },
+      top: 90,
+      minWidth: 0,
+      width: '100%',
+    }}
+  >
+    <BookingCard tour={tour} />
+  </Box>
+</Box>
+
+        
         <RelatedTours tour={tour} />
 <Reviews average={tour.rating} total={tour.reviews} />
       </>
