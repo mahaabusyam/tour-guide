@@ -17,11 +17,20 @@ const theme = createTheme({
   shape: { borderRadius: 8 },
   components: {
   MuiCssBaseline: {
-    styleOverrides: {
-      html: { scrollBehavior: 'smooth', scrollPaddingTop: '70px' },
-      '@media (prefers-reduced-motion: reduce)': { html: { scrollBehavior: 'auto' } },
+  styleOverrides: {
+    html: {
+      scrollBehavior: 'smooth',
+      scrollPaddingTop: '70px',
+      overflowX: 'hidden',
+      '@supports (overflow: clip)': { overflowX: 'clip' },
     },
+    body: {
+      overflowX: 'hidden',
+      '@supports (overflow: clip)': { overflowX: 'clip' },
+    },
+    '@media (prefers-reduced-motion: reduce)': { html: { scrollBehavior: 'auto' } },
   },
+},
 },
 });
 

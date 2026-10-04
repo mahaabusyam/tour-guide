@@ -125,7 +125,7 @@ const Profile = () => {
                   overflow: 'hidden',
                   boxShadow: '0 10px 36px rgba(31,42,55,0.09)',
                   display: 'grid',
-                  gridTemplateColumns: { xs: '1fr', md: '226px minmax(0, 1fr)' },
+                  gridTemplateColumns: { xs: 'minmax(0, 1fr)', md: '226px minmax(0, 1fr)' },
                   ...enter(fadeUp, 0.2, 0.9),
                 }}
               >

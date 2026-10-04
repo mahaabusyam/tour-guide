@@ -37,7 +37,7 @@ const ProfileSidebar = ({ profile, activeTab, onTabChange, bookingsCount, onNoti
   };
 
   return (
-    <Box sx={{ borderRight: { md: '1px solid #EEF1F4' }, borderBottom: { xs: '1px solid #EEF1F4', md: 'none' } }}>
+    <Box sx={{ minWidth: 0, borderRight: { md: '1px solid #EEF1F4' }, borderBottom: { xs: '1px solid #EEF1F4', md: 'none' } }}>
       <Box sx={{ pt: 4, pb: 2.5, textAlign: 'center' }}>
         <Box sx={{ position: 'relative', width: 90, mx: 'auto' }}>
           {/* key: عند تغيّر الصورة تُعاد قفزة الظهور */}

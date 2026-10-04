@@ -66,7 +66,7 @@ const TourDetails = () => {
         <>
           <Skeleton variant="text" width="70%" height={50} />
           <Skeleton variant="text" width="30%" sx={{ mb: 3 }} />
-          <Box sx={{ display: 'grid', gap: 3, gridTemplateColumns: { xs: '1fr', md: 'minmax(0, 1fr) 278px' } }}>
+          <Box sx={{ display: 'grid', gap: 3, gridTemplateColumns: { xs: 'minmax(0, 1fr)', md: 'minmax(0, 1fr) 278px' } }}>
             <Skeleton variant="rectangular" sx={{ aspectRatio: '578 / 345', height: 'auto' }} />
             <Skeleton variant="rectangular" height={420} />
           </Box>
