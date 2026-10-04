@@ -52,7 +52,14 @@ const TripGallery = ({ images, title, location }) => {
   const stop = (event) => event.stopPropagation();
 
   return (
-    <Box sx={{ mb: 3 }}>
+    <Box
+  sx={{
+    width: '100%',
+    maxWidth: '100%',
+    minWidth: 0,
+    boxSizing: 'border-box',
+  }}
+>
       <Reveal>
         <Box
           role="button"

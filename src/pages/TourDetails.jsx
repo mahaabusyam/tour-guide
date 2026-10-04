@@ -92,13 +92,29 @@ const TourDetails = () => {
     width: '100%',
     maxWidth: '100%',
     minWidth: 0,
+    boxSizing: 'border-box',
     gridTemplateColumns: {
       xs: 'minmax(0, 1fr)',
       md: 'minmax(0, 1fr) 278px',
     },
   }}
 >
-          <Box sx={{ minWidth: 0, width: '100%' }}>
+          <Box
+  sx={{
+    display: 'grid',
+    gap: 3,
+    alignItems: 'start',
+    width: '100%',
+    maxWidth: '100%',
+    minWidth: 0,
+    overflow: 'hidden',
+    boxSizing: 'border-box',
+    gridTemplateColumns: {
+      xs: 'minmax(0, 1fr)',
+      md: 'minmax(0, 1fr) 278px',
+    },
+  }}
+>
             <TripGallery images={tour.images} title={tour.title} location={tour.location} />
             <TripHighlights items={tour.highlights} />
             {/* الجزء التالي: Description, Activity, Included, Safety, Details, Meeting Point */}
